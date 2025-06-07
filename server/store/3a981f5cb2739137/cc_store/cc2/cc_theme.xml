@@ -2829,7 +2829,7 @@
     <library type="GoLower" id="023" path="023" name="023" thumb="023_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="013" path="013" name="013" thumb="013_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoLower" id="005" path="005" name="005" thumb="005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoLower" id="005" path="005" name="005" thumb="005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="009" path="009" name="009" thumb="009_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="2001" path="2001" name="2001" thumb="2001_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="2002" path="2002" name="2002" thumb="2002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
