@@ -15405,6 +15405,7 @@
 	<prop id="pencil.swf" name="Pencil" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ruler.swf" name="Ruler" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="school_glue.swf" name="School glue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="backpack.swf" name="Backpack" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="bench.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="bandage.swf" name="Bandage" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
     <prop id="leg_cast.swf" name="Leg cast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
@@ -17284,7 +17285,7 @@
 	<prop id="nccha_fishbowl.swf" name="Fishbowl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11137" money="0" sharing="0"/>
 	<prop id="msp_nccha_skelehand" name="Skeleton hand" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_skelehand_nccha_skeleton_hand01.swf" enable="Y" is_premium="Y" aid="11138" money="0" sharing="0">
 		<state id="msp_nccha_skelehand_nccha_skeleton_hand01.swf" name="decoration" enable="Y" default="Y"/>
-		<state id="msp_nccha_skelehand_nccha_skeleton_hand02.swf" name="wine glass" enable="Y"/>
+		<state id="msp_nccha_skelehand_nccha_skeleton_hand02.swf" name="wine glass" enable="N"/>
 	</prop>
 	<prop id="msp_nccha_chimney" name="Chimney" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_chimney_nccha_chimney01.swf" enable="Y" is_premium="Y" aid="11141" money="0" sharing="0">
 		<state id="msp_nccha_chimney_nccha_chimney01.swf" name="still" enable="Y" default="Y"/>
