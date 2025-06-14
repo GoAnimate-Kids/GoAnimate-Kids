@@ -320,58 +320,58 @@
     <tags>cc2,_free,_cat:Casual</tags>
   </char>
   <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
-    <tags>cc2,_free,_cat:Jobs Characters</tags>
+    <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="3023" name="Scientist" cc_theme_id="cc2" thumbnail_url="thumbnails/scientist.png" copyable="Y">
-    <tags>cc2,_free,_cat:Jobs Characters</tags>
+    <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="3006" name="Pirate" cc_theme_id="cc2" thumbnail_url="thumbnails/pirate.png" copyable="Y">
-    <tags>cc2,_free,_cat:Jobs Characters</tags>
+    <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="3022" name="Magician" cc_theme_id="cc2" thumbnail_url="thumbnails/magician_peepz.png" copyable="Y">
-    <tags>cc2,_free,_cat:Jobs Characters</tags>
+    <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="14001" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_001.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14002" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_002.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14003" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_003.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14004" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_004.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14006" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_005.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14007" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_006.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14008" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_007.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14009" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_008.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14010" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_009.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14011" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_010.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14012" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_011.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14013" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_012.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14014" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_013.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="14005" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/jogger.png" copyable="Y">
-    <tags>cc2,_free,_cat:Sports Characters</tags>
+    <tags>cc2,_free,_cat:Sports</tags>
   </char>
   <char id="12001" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_001.png" copyable="Y">
     <tags>cc2,_free,_cat:GoAnimate Classics</tags>
@@ -479,15 +479,12 @@
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="6001" name="SpongeBob SquarePants" cc_theme_id="cc2" thumbnail_url="thumbnails/spongebob.png" copyable="Y">
-    <tags>cc2,_free,_cat:Cartoon Characters</tags>
+    <tags>cc2,_free,_cat:Cartoons</tags>
   </char>
   <char id="6004" name="Monster" cc_theme_id="cc2" thumbnail_url="thumbnails/monster.png" copyable="Y">
     <tags>cc2,_free,_cat:Monsters</tags>
   </char>
   <char id="6003" name="Mermaid" cc_theme_id="cc2" thumbnail_url="thumbnails/mermaid.png" copyable="Y">
-    <tags>cc2,_free,_cat:Fantasy Characters</tags>
-  </char>
-  <char id="11001" name="Mona Lisa (by Leonardo da Vinci)" cc_theme_id="cc2" thumbnail_url="thumbnails/art/mona_lisa.png" copyable="N">
-    <tags>cc2,_free,_cat:Art Characters</tags>
+    <tags>cc2,_free,_cat:Fantasy</tags>
   </char>
 </theme>

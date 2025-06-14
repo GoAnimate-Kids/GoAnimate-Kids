@@ -4012,6 +4012,18 @@
   <char id="4034" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_033.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
+  <char id="4036" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_035.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4037" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_036.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
+  <char id="4038" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_037.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4039" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_038.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
@@ -4126,6 +4138,24 @@
   <char id="9041" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_039.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:female</tags>
   </char>
+  <char id="9045" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_043.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
+  <char id="9046" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_044.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
+  <char id="9047" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_045.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
+  <char id="9048" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_046.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
+  <char id="9049" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_047.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
+  <char id="9040" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_048.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
   <char id="9032" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_001.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
@@ -4133,64 +4163,64 @@
     <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
   <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3002" name="Doctor" cc_theme_id="family" thumbnail_url="thumbnails/doctor.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3014" name="Nurse" cc_theme_id="family" thumbnail_url="thumbnails/nurse.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:female</tags>
+    <tags>family,_free,_cat:Jobs,_tag:female</tags>
   </char>
   <char id="3004" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police_male.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3018" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police_female.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:female</tags>
+    <tags>family,_free,_cat:Jobs,_tag:female</tags>
   </char>
   <char id="3003" name="Firefighter" cc_theme_id="family" thumbnail_url="thumbnails/firefighter.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3001" name="Builder" cc_theme_id="family" thumbnail_url="thumbnails/builder.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3016" name="Plumber" cc_theme_id="family" thumbnail_url="thumbnails/plumber_mario.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3017" name="Plumber" cc_theme_id="family" thumbnail_url="thumbnails/plumber_luigi.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3012" name="Baker" cc_theme_id="family" thumbnail_url="thumbnails/chef.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3007" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3009" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3010" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier_heavy.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3011" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier_buff.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3013" name="Giggles the Clown" cc_theme_id="family" thumbnail_url="thumbnails/giggles.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3020" name="Magician" cc_theme_id="family" thumbnail_url="thumbnails/magician.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3019" name="Cowboy" cc_theme_id="family" thumbnail_url="thumbnails/cowboy.png" copyable="Y">
-    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="7030" name="Cheerleader" cc_theme_id="family" thumbnail_url="thumbnails/classics/cheerleader.png" copyable="Y">
-    <tags>family,_free,_cat:Sports Characters,_tag:female</tags>
+    <tags>family,_free,_cat:Sports,_tag:female</tags>
   </char>
   <char id="7031" name="Basketball Player" cc_theme_id="family" thumbnail_url="thumbnails/classics/basketball_player.png" copyable="Y">
-    <tags>family,_free,_cat:Sports Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Sports,_tag:male</tags>
   </char>
   <char id="7032" name="Basketball Loser" cc_theme_id="family" thumbnail_url="thumbnails/classics/basketball_loser.png" copyable="Y">
-    <tags>family,_free,_cat:Sports Characters,_tag:male</tags>
+    <tags>family,_free,_cat:Sports,_tag:male</tags>
   </char>
   <char id="7001" name="Eric" cc_theme_id="family" thumbnail_url="thumbnails/classics/red_hoodie_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
