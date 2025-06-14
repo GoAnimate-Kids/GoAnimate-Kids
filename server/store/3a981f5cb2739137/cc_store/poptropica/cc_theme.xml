@@ -233,6 +233,14 @@
 		<selection type="hair" state_id="default"/>
 		<selection type="mouth" state_id="happy"/>
 	</facial>
+	<facial id="head_pensive" name="Pensive" enable="Y">
+		<selection type="eye" state_id="closed_eye"/>
+		<selection type="facedecoration" state_id="default"/>
+		<selection type="faceshape" state_id="default"/>
+		<selection type="glasses" state_id="default"/>
+		<selection type="hair" state_id="default"/>
+		<selection type="mouth" state_id="sad"/>
+	</facial>
 	<facial id="head_sad" name="Sad" enable="Y">
 		<selection type="eye" state_id="sad"/>
 		<selection type="facedecoration" state_id="default"/>
