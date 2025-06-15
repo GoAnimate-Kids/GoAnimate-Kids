@@ -5972,9 +5972,6 @@
 	<component type="hair" id="129" path="129" name="129" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
-	<component type="hair" id="130" path="130" name="130" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-		<state id="default" filename="default.swf"/>
-	</component>
 	<component type="hair" id="132" path="132" name="132" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
