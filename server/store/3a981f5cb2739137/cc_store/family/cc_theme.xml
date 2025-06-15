@@ -5975,14 +5975,7 @@
 	<component type="hair" id="130" path="130" name="130" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
-	<component type="hair" id="131" path="131" name="131" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-		<state id="default" filename="default.swf"/>
-		<tag>girl</tag>
-	</component>
 	<component type="hair" id="132" path="132" name="132" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-		<state id="default" filename="default.swf"/>
-	</component>
-	<component type="hair" id="133" path="133" name="133" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="134" path="134" name="134" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
