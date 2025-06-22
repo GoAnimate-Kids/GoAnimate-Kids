@@ -15386,6 +15386,7 @@
 	</bg>
 </compositebg>
 	<prop id="balloons.swf" name="Balloons" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="doll.swf" name="Doll" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="lego_brick.swf" name="Building block" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="painting_canvas.swf" name="Canvas" holdable="" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="magician_wand.swf" name="Magic wand" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
@@ -15402,11 +15403,11 @@
 	<prop id="eraser.swf" name="Eraser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="highlighter.swf" name="Highlighter" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="pen.swf" name="Pen" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
-    <prop id="msp_playground" name="Playground" holdable="" placeable="1" wearable="" facing="left" thumb="ncc_playground.swf" enable="Y" is_premium="N" aid="11038" money="" sharing="">
+	<prop id="pencil.swf" name="Pencil" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
+	<prop id="msp_playground" name="Playground" holdable="" placeable="1" wearable="" facing="left" thumb="ncc_playground.swf" enable="Y" is_premium="N" aid="11038" money="" sharing="">
       <state id="ncc_playground.swf" name="default" enable="Y" default="Y" />
       <state id="ncc_playground_front.swf" name="front layer" enable="Y" />
     </prop>
-	<prop id="pencil.swf" name="Pencil" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ruler.swf" name="Ruler" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="school_glue.swf" name="School glue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="backpack.swf" name="Backpack" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
