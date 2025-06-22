@@ -2432,8 +2432,8 @@
     <!--PAGE 1-->
     <library type="GoUpper" id="animal_body" path="animal_body" name="animal_body" thumb="animal_body_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="animal_female" path="animal_female" name="animal_female" thumb="animal_female_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="animal_body_striped" path="animal_body_striped" name="animal_body_striped" thumb="animal_body_striped_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
-    <library type="GoUpper" id="animal_female_striped" path="animal_female_striped" name="animal_female_striped" thumb="animal_female_striped_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="animal_body_striped" path="animal_body_striped" name="animal_body_striped" thumb="animal_body_striped_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
+    <library type="GoUpper" id="animal_female_striped" path="animal_female_striped" name="animal_female_striped" thumb="animal_female_striped_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="goanimatekids_astronaut" path="goanimatekids_astronaut" name="goanimatekids_astronaut" thumb="goanimatekids_astronaut_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="mummy" path="mummy" name="mummy" thumb="mummy_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="263" path="263" name="263" thumb="263_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -2900,6 +2900,7 @@
     <library type="GoBehindBody" id="beaver_tail" path="beaver_tail" name="beaver_tail" thumb="beaver_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="bird_tail" path="bird_tail" name="bird_tail" thumb="bird_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="bunny_tail" path="bunny_tail" name="bunny_tail" thumb="bunny_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
+    <library type="GoBehindBody" id="calico_cat_tail" path="calico_cat_tail" name="calico_cat_tail" thumb="calico_cat_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
     <library type="GoBehindBody" id="custom_cat_tail" path="custom_cat_tail" name="custom_cat_tail" thumb="custom_cat_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="custom_cat_tail_striped" path="custom_cat_tail_striped" name="custom_cat_tail_striped" thumb="custom_cat_tail_striped_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="deer_tail" path="deer_tail" name="deer_tail" thumb="deer_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -4061,6 +4062,9 @@
   <component type="facedecoration" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="facedecoration" id="calico_cat_ears" path="calico_cat_ears" name="calico_cat_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="facedecoration" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
@@ -4157,18 +4161,6 @@
     <tag>_userrole_admin</tag>
   </component>
   <component type="faceshape" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-    <state id="default" filename="default.swf" />
-  </component>
-  <component type="faceshape" id="eye_marking" path="eye_marking" name="eye_marking" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-    <state id="default" filename="default.swf" />
-  </component>
-  <component type="faceshape" id="head_stripe" path="head_stripe" name="head_stripe" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-    <state id="default" filename="default.swf" />
-  </component>
-  <component type="faceshape" id="mouth_marking" path="mouth_marking" name="mouth_marking" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-    <state id="default" filename="default.swf" />
-  </component>
-  <component type="faceshape" id="tiger" path="tiger" name="tiger" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="default" filename="default.swf" />
   </component>
   <component type="faceshape" id="mummy" path="mummy" name="mummy" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -4403,6 +4395,24 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="faceshape" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="eye_marking" path="eye_marking" name="eye_marking" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="head_stripe" path="head_stripe" name="head_stripe" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="mouth_marking" path="mouth_marking" name="mouth_marking" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="tiger" path="tiger" name="tiger" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="tabby_cat" path="tabby_cat" name="tabby_cat" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="calico_cat" path="calico_cat" name="calico_cat" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="default" filename="default.swf" />
   </component>
   <!-- GLASSES START HERE -->

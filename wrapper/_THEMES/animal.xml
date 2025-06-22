@@ -101,6 +101,21 @@
   <char id="2005" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2038" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2037" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tabby.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2040" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_calico.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2039" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_calico.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2005" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2008" name="Deer" cc_theme_id="cc2" thumbnail_url="thumbnails/deer_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
