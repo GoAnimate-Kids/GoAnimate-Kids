@@ -5918,10 +5918,6 @@
 	<component type="hair" id="098" path="098" name="098" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
-	<component type="hair" id="110" path="110" name="110" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-		<state id="default" filename="default.swf"/>
-		<tag>boy</tag>
-	</component>
 	<component type="hair" id="111" path="111" name="111" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
