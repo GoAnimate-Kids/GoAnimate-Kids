@@ -1850,7 +1850,6 @@
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
 			<tag>boy</tag>
-			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_127" path="adam_127" name="adam_127" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
