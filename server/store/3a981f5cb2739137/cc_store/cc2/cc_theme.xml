@@ -4163,9 +4163,6 @@
   <component type="faceshape" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="faceshape" id="mummy" path="mummy" name="mummy" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-    <state id="default" filename="default.swf" />
-  </component>
   <component type="faceshape" id="spongebob" path="spongebob" name="spongebob" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="default" filename="default.swf" />
   </component>
@@ -4395,6 +4392,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="faceshape" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="faceshape" id="mummy" path="mummy" name="mummy" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="faceshape" id="eye_marking" path="eye_marking" name="eye_marking" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
