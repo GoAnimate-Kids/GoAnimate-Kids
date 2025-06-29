@@ -4024,6 +4024,18 @@
   <char id="4039" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_038.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:female</tags>
   </char>
+  <char id="4041" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_040.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4042" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_041.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4043" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_042.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
+  <char id="4044" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_043.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>

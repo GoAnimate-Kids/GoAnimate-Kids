@@ -4977,8 +4977,6 @@
 	</component>
 	<component type="faceshape" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
-		<tag>boy</tag>
-		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
