@@ -4507,6 +4507,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="eye" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -4522,6 +4523,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4536,6 +4538,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4562,6 +4565,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="eye" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -4590,6 +4594,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="104" path="104" name="104" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4603,6 +4608,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="eye" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
