@@ -5859,6 +5859,8 @@
 	</component>
 	<component type="hair" id="093" path="093" name="093" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="094" path="094" name="094" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5940,6 +5942,7 @@
 	</component>
 	<component type="hair" id="117" path="117" name="117" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="118" path="118" name="118" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5979,16 +5982,19 @@
 	</component>
 	<component type="hair" id="127" path="127" name="127" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="128" path="128" name="128" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="129" path="129" name="129" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="132" path="132" name="132" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="134" path="134" name="134" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -6004,6 +6010,7 @@
 	</component>
 	<component type="hair" id="137" path="137" name="137" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="138" path="138" name="138" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -6015,6 +6022,7 @@
 	</component>
 	<component type="hair" id="140" path="140" name="140" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="124new" path="124new" name="124new" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
