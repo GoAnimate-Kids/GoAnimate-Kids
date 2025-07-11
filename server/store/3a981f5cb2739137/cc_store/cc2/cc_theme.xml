@@ -2807,6 +2807,8 @@
     <library type="GoLower" id="2004" path="2004" name="2004" thumb="2004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
       <tag>_userrole_admin</tag>
     </library>
+    <library type="GoLower" id="wellies" path="wellies" name="wellies" thumb="wellies_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+    </library>
     <library type="GoLower" id="2005" path="2005" name="2005" thumb="2005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
     </library>
     <library type="GoLower" id="2006" path="2006" name="2006" thumb="2006_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
