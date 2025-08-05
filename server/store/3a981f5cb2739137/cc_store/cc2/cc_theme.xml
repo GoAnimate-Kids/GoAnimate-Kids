@@ -2660,7 +2660,7 @@
     <library type="GoUpper" id="098" path="098" name="098" thumb="098_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="101" path="101" name="101" thumb="101_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="104" path="104" name="104" thumb="104_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="102" path="102" name="102" thumb="102_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="102" path="102" name="102" thumb="102_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="100" path="100" name="100" thumb="100_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
     <library type="GoUpper" id="096" path="096" name="096" thumb="096_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="103" path="103" name="103" thumb="103_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
