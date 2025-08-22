@@ -6081,6 +6081,10 @@
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="goanimatekids_space_buns" path="goanimatekids_space_buns" name="goanimatekids_space_buns" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
 	<component type="hair" id="hijab" path="hijab" name="hijab" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
