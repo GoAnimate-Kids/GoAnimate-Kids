@@ -5647,6 +5647,7 @@
 	</component>
 	<component type="ear" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
