@@ -277,6 +277,9 @@
   <char id="4040" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_039.png" copyable="Y">
     <tags>cc2,_free,_cat:Kids</tags>
   </char>
+  <char id="4045" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_044.png" copyable="Y">
+    <tags>cc2,_free,_cat:Kids</tags>
+  </char>
   <char id="9021" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_021.png" copyable="Y">
     <tags>cc2,_free,_cat:Casual</tags>
   </char>
@@ -326,6 +329,18 @@
     <tags>cc2,_free,_cat:Casual</tags>
   </char>
   <char id="9052" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_050.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual</tags>
+  </char>
+  <char id="9054" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_052.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual</tags>
+  </char>
+  <char id="9055" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_053.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual</tags>
+  </char>
+  <char id="9056" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_054.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual</tags>
+  </char>
+  <char id="9057" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_055.png" copyable="Y">
     <tags>cc2,_free,_cat:Casual</tags>
   </char>
   <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
