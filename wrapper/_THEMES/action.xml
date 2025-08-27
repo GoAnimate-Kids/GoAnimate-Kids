@@ -475,6 +475,9 @@
   <char id="5016" name="Halloween - Frankenstein's Monster" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/frank_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
+  <char id="5017" name="Halloween - Bride of Frankenstein" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/frank_bride.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
   <char id="5004" name="Halloween - Skeleton" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/skeleton.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
@@ -485,6 +488,9 @@
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="5009" name="Halloween - Grim Reaper" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/grim_reaper.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5018" name="Halloween - Zombie" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/zombie_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="5015" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgiving/pilgrim_male2.png" copyable="Y">
