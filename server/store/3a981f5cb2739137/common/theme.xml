@@ -15392,6 +15392,7 @@
 	<prop id="ncc_juicecarton.swf" name="Juice box" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="milkshake.swf" name="Milkshake" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="mint_lemonade.swf" name="Mint lemonade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="salt_shaker.swf" name="Seasoning shaker" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="water_bottle.swf" name="Water bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="eraser.swf" name="Eraser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="highlighter.swf" name="Highlighter" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
