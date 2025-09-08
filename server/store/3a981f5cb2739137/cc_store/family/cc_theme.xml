@@ -6094,6 +6094,11 @@
 		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="new_hairstyle14" path="new_hairstyle14" name="new_hairstyle14" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
+	</component>
 	<component type="hair" id="new_hairstyle12" path="new_hairstyle12" name="new_hairstyle12" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
