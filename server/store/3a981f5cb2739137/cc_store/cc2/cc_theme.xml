@@ -3835,6 +3835,9 @@
   <component type="facedecoration" id="goanimatekids_astronaut" path="goanimatekids_astronaut" name="goanimatekids_astronaut" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="facedecoration" id="backwards_cap" path="backwards_cap" name="backwards_cap" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<state id="default" filename="default.swf"/>
+  </component>
   <component type="facedecoration" id="mouse_ears" path="mouse_ears" name="mouse_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
