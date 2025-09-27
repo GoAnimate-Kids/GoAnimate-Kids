@@ -2304,7 +2304,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="victim" name="Victim" money="0" sharing="0" enable="Y">
+		<actionpack id="victim" name="Victim" money="0" sharing="0" enable="N">
 			<action id="vic_dizzy" name="Dizzy" loop="Y" totalframe="24" enable="Y" is_motion="N" category="Victim">
 				<selection type="facial" facial_id="head_sad"/>
 			</action>
