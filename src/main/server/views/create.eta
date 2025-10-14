@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="UTF-8"/>
-		<link rel="icon" href="/favicon.ico" type="image/png"/>
-		<title>Video List</title>
-		<meta name="description" content="Wrapper: Offline's create page"/>
-		<link rel="stylesheet" type="text/css" href="/pages/css/global.css">
-		<link rel="stylesheet" type="text/css" href="/pages/css/create.css">
-		<script src="/pages/js/jquery.js"></script>
-		<script src="/pages/js/global.js"></script>
-	</head>
-
-	<body>
 		<%~ includeFile("./includes/header", { env: it.env }) %>
 
 		<main>
@@ -19,55 +5,55 @@
 
 			<div class="theme" data-has-cc>
 				<a href="#" onclick="redirect('custom', 'family')">
-					<img src="./public/img/themes/banners/custom.jpg" alt="Comedy World">
+					<img src="/pages/img/themes/custom.jpg" alt="Comedy World">
 					Comedy World
 				</a>
 			</div>
 			<div class="theme" data-has-cc>
 				<a href="#" onclick="redirect('action', 'cc2')">
-					<img src="./public/img/themes/banners/action.jpg" alt="Lil' Peepz">
+					<img src="/pages/img/themes/action.jpg" alt="Lil' Peepz">
 					Lil' Peepz
 				</a>
 			</div>
 			<div class="theme">
 				<a href="#" onclick="redirect('retro')">
-					<img src="./public/img/themes/banners/retro.jpg" alt="Cartoon Classics">
+					<img src="/pages/img/themes/retro.jpg" alt="Cartoon Classics">
 					Cartoon Classics
 				</a>
 			</div>
 			<div class="theme">
 				<a href="#" onclick="redirect('stick')">
-					<img src="./public/img/themes/banners/stick.jpg" alt="Stick Figure">
+					<img src="/pages/img/themes/stick.jpg" alt="Stick Figure">
 					Stick Figure
 				</a>
 			</div>
 			<div class="theme" data-has-cc>
 				<a href="#" onclick="redirect('anime', 'anime')">
-					<img src="./public/img/themes/banners/anime.jpg" alt="Anime">
+					<img src="/pages/img/themes/anime.jpg" alt="Anime">
 					Anime
 				</a>
 			</div>
 			<div class="theme">
 				<a href="#" onclick="redirect('spacecitizen')">
-					<img src="./public/img/themes/banners/spacecitizen.jpg" alt="Space Citizens">
+					<img src="/pages/img/themes/spacecitizen.jpg" alt="Space Citizens">
 					Space Citizens
 				</a>
 			</div>
 			<div class="theme" data-has-cc>
 				<a href="#" onclick="redirect('chibi', 'chibi')">
-					<img src="./public/img/themes/banners/chibi.jpg" alt="Chibi Peepz">
+					<img src="/pages/img/themes/chibi.jpg" alt="Chibi Peepz">
 					Chibi Peepz
 				</a>
 			</div>
 			<div class="theme">
 				<a href="#" onclick="redirect('animal')">
-					<img src="./public/img/themes/banners/animal.jpg" alt="Lil' Petz World">
+					<img src="/pages/img/themes/animal.jpg" alt="Lil' Petz World">
 					Lil' Petz World
 				</a>
 			</div>
 			<div class="theme">
 				<a href="#" onclick="redirect('space')">
-					<img src="./public/img/themes/banners/space.jpg" alt="Space Peepz">
+					<img src="/pages/img/themes/space.jpg" alt="Space Peepz">
 					Space Peepz
 				</a>
 			</div>
@@ -91,5 +77,3 @@
 		}
 
 	</script>
-
-</html>
