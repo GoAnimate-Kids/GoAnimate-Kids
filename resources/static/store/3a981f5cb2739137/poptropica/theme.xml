@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme id="poptropica" name="Poptropica" cc_theme_id="poptropica">
+  <prop id="cellphone.swf" name="Phone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <char id="10005" name="Oliver" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/oliver.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
+  <char id="10006" name="Jorge" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/jorge.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
+  <char id="10007" name="Mya" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mya.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
+  <char id="10004" name="Amelia Earhart" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/amelia.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="10002" name="Halloween - Skeleton" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/skeleton.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Holidays</tags>
+  </char>
+  <char id="10008" name="Comic Nerd" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/superhero_nerd.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Superheroes</tags>
+  </char>
+  <char id="10009" name="Dr. Hare" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/dr_hare.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Villains</tags>
+  </char>
+  <char id="10010" name="Black Widow" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/black_widow.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Villains</tags>
+  </char>
+  <char id="10001" name="Myron Van Buren" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/van_buren.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Villains</tags>
+  </char>
+</theme>
