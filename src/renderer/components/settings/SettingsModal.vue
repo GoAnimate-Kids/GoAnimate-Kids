@@ -93,7 +93,7 @@ onUnmounted(() => {
 <template>
 	<div class="settings_modal">
 		<Popup class="settings_popup">
-			<template #small-heading>Wrapper: Offline</template>
+			<template #small-heading>GoAnimate Kids</template>
 			<template #large-heading>App settings</template>
 	
 			<div class="tab_selector">

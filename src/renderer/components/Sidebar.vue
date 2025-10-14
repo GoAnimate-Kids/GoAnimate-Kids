@@ -470,10 +470,6 @@ defineExpose({ slideMode, width });
 		width: width + 'px'
 	}">
 		<div id="logo_container" :style="{width:width + 'px'}">
-			<div class="logo_btn" @click="openAppInfo" title="About Wrapper: Offline">
-				<img id="logo_icon" src="/img/logo_icon.svg" alt="Candy"/>
-				<img id="logo_wordmark" src="/img/logo_wordmark.svg" alt="Wrapper: Offline"/>
-			</div>
 		</div>
 		<ul>
 			<Dropdown>
@@ -518,32 +514,6 @@ defineExpose({ slideMode, width });
 		</ul>
 		<ul class="user_custom">
 			<h3>Recent</h3>
-		</ul>
-		<ul>
-			<li class="group">
-				<ul>
-					<li class="link" title="Get answers to various questions you may have">
-						<a href="javascript:window.appWindow.openFAQ();">
-							<i class="ico interr"></i>
-							<div class="link_text">FAQ</div>
-						</a>
-					</li>
-					<div class="divider"></div>
-					<li class="link" title="Need help with Wrapper? Chat with our community on Discord!">
-						<a href="javascript:window.appWindow.openDiscord();">
-							<i class="ico speech"></i>
-							<div class="link_text">Discord</div>
-						</a>
-					</li>
-				</ul>
-			</li>
-			<li class="link" title="Configure Wrapper">
-				<button @click="openSettings">
-					<i class="ico cog"></i>
-					<div class="link_text">Settings</div>
-				</button>
-			</li>
-			<span id="wrapper_ver">{{ wrapperVer }}</span>
 		</ul>
 		<div
 			v-if="!slideMode.enabled"
