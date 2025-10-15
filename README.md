@@ -6,18 +6,10 @@ GoAnimate Kids is the children's version of Wrapper: Offline.
 ## Running / Installation
 To start GoAnimate Kids on Windows, Download and run the installer [here]((https://goanimatekids.weebly.com/)) It'll automate just about everything for you and, well, start GoAnimate Kids.
 
-<<<<<<< HEAD
-## Development
-To run GoAnimate with a development server, run the following under the root folder of GoAnimate:
-```
-npm run dev
-```
-=======
 If you want to import videos and characters from the original GoAnimate or any other clones of it, open its folder and drag the "_SAVED" folder into GoAnimate's "wrapper" folder. If you have already made any videos or characters, this will not work. Please only import on a new install with no saved characters or videos, or take the "_SAVED" folder in GoAnimate out before dragging the old one in. If you want to import character IDs from the original LVM, you can paste `&original_asset_id=[ID HERE]` at the end of the link for the matching character creator.
 
 ## Dependencies
 This program relies on Flash, Node.js and http-server to work properly. SilentCMD is also used to suppress all the extra logging noise you'd only need for troubleshooting and development. These all have been included with the project (utilities folder) to ensure full offline operation and will be installed if missing. The "wrapper" folder and http-server have their own dependencies, but they are included as well.
->>>>>>> parent of c5d29c8e (Update)
 
 ## License
 Most of this project is free/libre software[1] under the MIT license. You have the freedom to run, change, and share this as much as you want.
