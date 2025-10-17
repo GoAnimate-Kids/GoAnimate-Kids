@@ -1,5 +1,5 @@
 /***
- * Wrapper: Offline
+ * GoAnimate Kids
  */
 // assign config and env.json stuff to process.env
 const env = Object.assign(process.env, require("./env"), require("./config"));
@@ -39,9 +39,9 @@ if (process.env.DISCORD_RPC && process.env.DISCORD_RPC == "y") {
 			details: `Version ${version}`,
 			startTimestamp: new Date(),
 			largeImageKey: "icon",
-			largeImageText: "Wrapper: Offline",
-			smallImageKey: "Wrapper: Offline",
-			smallImagetext: "Wrapper: Offline",
+			largeImageText: "GoAnimate Kids",
+			smallImageKey: "GoAnimate Kids",
+			smallImagetext: "GoAnimate Kids",
 		});
 	});
 
