@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<link rel="icon" href="/favicon.ico" type="image/png"/>
+		<title>Video List</title>
+		<meta name="description" content="Wrapper: Offline's create page"/>
+		<link rel="stylesheet" type="text/css" href="/pages/css/global.css">
+		<link rel="stylesheet" type="text/css" href="/pages/css/create.css">
+		<script src="/pages/js/jquery.js"></script>
+		<script src="/pages/js/global.js"></script>
+	</head>
+
+	<body>
 		<%~ includeFile("./includes/header", { env: it.env }) %>
 
 		<main>
@@ -77,3 +91,5 @@
 		}
 
 	</script>
+
+</html>
