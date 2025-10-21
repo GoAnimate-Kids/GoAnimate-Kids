@@ -2975,7 +2975,7 @@
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
-		<component type="upper_body" id="eve_a002" path="eve_a002" name="eve_a002" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+		<component type="upper_body" id="eve_a002" path="eve_a002" name="eve_a002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
 			<state id="crossed_arms" filename="crossed_arms.swf"/>
 			<state id="dance" filename="dance.swf"/>
