@@ -4294,6 +4294,9 @@
   <char id="7004" name="PC Guy" cc_theme_id="family" thumbnail_url="thumbnails/classics/pc_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
   </char>
+  <char id="7041" name="Bodyguard" cc_theme_id="family" thumbnail_url="thumbnails/classics/bodyguard.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
   <char id="7010" name="Mac Guy" cc_theme_id="family" thumbnail_url="thumbnails/classics/mac_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
   </char>
