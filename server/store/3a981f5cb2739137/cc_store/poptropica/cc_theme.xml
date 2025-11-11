@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cc_theme id="poptropica" studio_theme_id="poptropica" name="Poptropica" xsi:noNamespaceSchemaLocation="http://alvin.goanimate.org/schema/cc_library_theme.xsd" version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<color r="ccSkinColor" component_type="bodyshape" enable="Y">
-		<choice>0xF4DCD8</choice>
-		<choice>0xF4B99F</choice>
-		<choice>0xF7C792</choice>
-		<choice>0xD38E6C</choice>
-		<choice>0x845A47</choice>
-		<choice>0xFFF2E5</choice>
-		<choice>0xFCE5CD</choice>
-		<choice>0xFAD7C4</choice>
-		<choice>0xE0AC69</choice>
-		<choice>0xCC7C5C</choice>
-		<choice>0xC68642</choice>
-		<choice>0xB27256</choice>
-		<choice>0xAD7A55</choice>
-		<choice>0xA9746E</choice>
-		<choice>0x8D5524</choice>
-		<choice>0x664A3C</choice>
-		<choice>0x7D4B27</choice>
-		<choice>0x5C4033</choice>
+		<choice>0xFEE0D8</choice>
+		<choice>0xFAE0C9</choice>
+		<choice>0xFDE7B6</choice>
+		<choice>0xD2AA72</choice>
+		<choice>0x754A2F</choice>
+		<choice>0xFFEDE4</choice>
+		<choice>0xF5D4B2</choice>
+		<choice>0xEBC596</choice>
+		<choice>0xC49A6D</choice>
+		<choice>0xA57247</choice>
+		<choice>0x814E2A</choice>
+		<choice>0x59361F</choice>
 	</color>
 	<color r="ccFaceHairColor" component_type="bodyshape" enable="Y">
 		<choice>0x000000</choice>
-		<choice>0x513220</choice>
+		<choice>0x513B2B</choice>
 		<choice>0xF5C455</choice>
-		<choice>0xB93F0F</choice>
-		<choice>0xC0C0C0</choice>
-		<choice>0x4F4F4F</choice>
-		<choice>0x501B2E</choice>
-		<choice>0x26170D</choice>
-		<choice>0x4B3621</choice>
-		<choice>0x7E400A</choice>
-		<choice>0xFF6600</choice>
-		<choice>0xA0522D</choice>
-		<choice>0x967541</choice>
-		<choice>0xDEB887</choice>
-		<choice>0xFFFACD</choice>
+		<choice>0xE75C2E</choice>
+		<choice>0x999999</choice>
+		<choice>0x2C1E14</choice>
+		<choice>0x6A4B33</choice>
+		<choice>0xA87945</choice>
+		<choice>0xD8B57A</choice>
+		<choice>0xFFE19B</choice>
+		<choice>0x8C2F16</choice>
+		<choice>0xD9D9D9</choice>
+		<choice>0xFFFFFF</choice>
 	</color>
 	<color r="ccGlassesFrame" component_type="glasses" enable="Y">
 		<choice>0xAE0057</choice>
@@ -69,37 +61,33 @@
 	</color>
 	<color r="ccHairMajor" component_type="hair" enable="Y">
 		<choice>0x000000</choice>
-		<choice>0x513220</choice>
+		<choice>0x513B2B</choice>
 		<choice>0xF5C455</choice>
-		<choice>0xB93F0F</choice>
-		<choice>0xC0C0C0</choice>
-		<choice>0x4F4F4F</choice>
-		<choice>0x501B2E</choice>
-		<choice>0x26170D</choice>
-		<choice>0x4B3621</choice>
-		<choice>0x7E400A</choice>
-		<choice>0xFF6600</choice>
-		<choice>0xA0522D</choice>
-		<choice>0x967541</choice>
-		<choice>0xDEB887</choice>
-		<choice>0xFFFACD</choice>
+		<choice>0xE75C2E</choice>
+		<choice>0x999999</choice>
+		<choice>0x2C1E14</choice>
+		<choice>0x6A4B33</choice>
+		<choice>0xA87945</choice>
+		<choice>0xD8B57A</choice>
+		<choice>0xFFE19B</choice>
+		<choice>0x8C2F16</choice>
+		<choice>0xD9D9D9</choice>
+		<choice>0xFFFFFF</choice>
 	</color>
 	<color r="ccHairMinor" component_type="hair" enable="Y">
 		<choice>0x000000</choice>
-		<choice>0x513220</choice>
+		<choice>0x513B2B</choice>
 		<choice>0xF5C455</choice>
-		<choice>0xB93F0F</choice>
-		<choice>0xC0C0C0</choice>
-		<choice>0x4F4F4F</choice>
-		<choice>0x501B2E</choice>
-		<choice>0x26170D</choice>
-		<choice>0x4B3621</choice>
-		<choice>0x7E400A</choice>
-		<choice>0xFF6600</choice>
-		<choice>0xA0522D</choice>
-		<choice>0x967541</choice>
-		<choice>0xDEB887</choice>
-		<choice>0xFFFACD</choice>
+		<choice>0xE75C2E</choice>
+		<choice>0x999999</choice>
+		<choice>0x2C1E14</choice>
+		<choice>0x6A4B33</choice>
+		<choice>0xA87945</choice>
+		<choice>0xD8B57A</choice>
+		<choice>0xFFE19B</choice>
+		<choice>0x8C2F16</choice>
+		<choice>0xD9D9D9</choice>
+		<choice>0xFFFFFF</choice>
 	</color>
 	<color r="ccUpperMain" component_type="GoUpper" enable="Y">
 		<choice>0x505682</choice>
@@ -149,37 +137,33 @@
 	</color>
 	<color r="ccDecMajor" component_type="facedecoration" enable="Y">
 		<choice>0x000000</choice>
-		<choice>0x513220</choice>
+		<choice>0x513B2B</choice>
 		<choice>0xF5C455</choice>
-		<choice>0xB93F0F</choice>
-		<choice>0xC0C0C0</choice>
-		<choice>0x4F4F4F</choice>
-		<choice>0x501B2E</choice>
-		<choice>0x26170D</choice>
-		<choice>0x4B3621</choice>
-		<choice>0x7E400A</choice>
-		<choice>0xFF6600</choice>
-		<choice>0xA0522D</choice>
-		<choice>0x967541</choice>
-		<choice>0xDEB887</choice>
-		<choice>0xFFFACD</choice>
+		<choice>0xE75C2E</choice>
+		<choice>0x999999</choice>
+		<choice>0x2C1E14</choice>
+		<choice>0x6A4B33</choice>
+		<choice>0xA87945</choice>
+		<choice>0xD8B57A</choice>
+		<choice>0xFFE19B</choice>
+		<choice>0x8C2F16</choice>
+		<choice>0xD9D9D9</choice>
+		<choice>0xFFFFFF</choice>
 	</color>
 	<color r="ccDecMinor" component_type="facedecoration" enable="Y">
 		<choice>0x000000</choice>
-		<choice>0x513220</choice>
+		<choice>0x513B2B</choice>
 		<choice>0xF5C455</choice>
-		<choice>0xB93F0F</choice>
-		<choice>0xC0C0C0</choice>
-		<choice>0x4F4F4F</choice>
-		<choice>0x501B2E</choice>
-		<choice>0x26170D</choice>
-		<choice>0x4B3621</choice>
-		<choice>0x7E400A</choice>
-		<choice>0xFF6600</choice>
-		<choice>0xA0522D</choice>
-		<choice>0x967541</choice>
-		<choice>0xDEB887</choice>
-		<choice>0xFFFACD</choice>
+		<choice>0xE75C2E</choice>
+		<choice>0x999999</choice>
+		<choice>0x2C1E14</choice>
+		<choice>0x6A4B33</choice>
+		<choice>0xA87945</choice>
+		<choice>0xD8B57A</choice>
+		<choice>0xFFE19B</choice>
+		<choice>0x8C2F16</choice>
+		<choice>0xD9D9D9</choice>
+		<choice>0xFFFFFF</choice>
 	</color>
     <color r="ccBackMajor" component_type="GoBehindBody" enable="Y">
         <choice>0xAE0057</choice>
@@ -340,8 +324,8 @@
 
 	<bodyshape id="default" name="Default" default_action="stand" default_motion="walk" action_thumb="stand" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y">
 		<default_char>
-		<color r="ccSkinColor">0xF4B99F</color>
-		<color r="ccHairMajor">0x513220</color>
+		<color r="ccSkinColor">0xFAE0C9</color>
+		<color r="ccHairMajor">0x513B2B</color>
 		<color r="ccLowerMain">0x494949</color>
 		<component type="bodyshape" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="freeaction" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
@@ -904,6 +888,16 @@
     <state id="talk" filename="talk.swf" />
   </component>
   <component type="mouth" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="104" path="104" name="104" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
     <state id="default" filename="default.swf" />
