@@ -2473,4 +2473,49 @@
 		<state id="msp_ninja_door01_ncc_ninja_door01_open.swf" name="open" enable="Y"/>
 	</prop>
 	<effect id="ncc_jp_sakura.swf" type="ANIME" resize="false" move="false" name="Sakura" enable="N" is_premium="N" aid="14976" money="0" sharing="0" display_order="0"/>
+  <char id="13017" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_001.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13018" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_002.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13019" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_003.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13020" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_004.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13021" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_005.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13022" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_006.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13023" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_007.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13024" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_008.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13025" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_009.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13026" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_010.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13027" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_011.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13028" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_012.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13029" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_013.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13030" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_014.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
+  <char id="13031" name="Untitled" cc_theme_id="chibi" thumbnail_url="thumbnails/chibi_015.png" copyable="Y">
+    <tags>chibi,_free</tags>
+  </char>
 </theme>
