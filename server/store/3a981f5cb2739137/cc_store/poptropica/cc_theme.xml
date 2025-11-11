@@ -378,6 +378,7 @@
 	<library type="GoUpper" id="knight" path="knight" name="knight" thumb="knight_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="overalls" path="overalls" name="overalls" thumb="overalls_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
+	<library type="GoUpper" id="spy" path="spy" name="spy" thumb="spy_thumbnail.swf" money="0" sharing="0" enable="Y" />
 
 	<library type="GoUpper" id="amelia" path="amelia" name="amelia" thumb="amelia_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
     <library type="GoUpper" id="black_widow" path="black_widow" name="black_widow" thumb="black_widow_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
@@ -456,6 +457,7 @@
     <library type="GoHair" id="balding002" path="balding002" name="balding002" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="dreads" path="dreads" name="dreads" thumb="" money="0" sharing="0" enable="Y" />
 	<library type="GoHair" id="farmer" path="farmer" name="farmer" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoHair" id="hijab" path="hijab" name="hijab" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="knight" path="knight" name="knight" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
     <library type="GoHair" id="rocker_male" path="rocker_male" name="rocker_male" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="rocker_female" path="rocker_female" name="rocker_female" thumb="" money="0" sharing="0" enable="Y" />
@@ -698,6 +700,9 @@
   <component type="hair" id="farmer" path="farmer" name="farmer" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="hair" id="hijab" path="hijab" name="hijab" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="hair" id="knight" path="knight" name="knight" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
@@ -907,7 +912,27 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
+  <component type="mouth" id="105" path="105" name="105" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
   <component type="mouth" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="zomberry" path="zomberry" name="zomberry" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
     <state id="default" filename="default.swf" />
