@@ -143,7 +143,7 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="39"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="40"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="41"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="42"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="42"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="43"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="44"/>
 		<action id="33_poke.swf" name="poke" loop="Y" totalframe="100" enable="Y" aid="45"/>
@@ -200,7 +200,7 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="92"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="93"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="94"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="95"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="95"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="96"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="97"/>
 		<action id="33_poke.swf" name="poke" loop="Y" totalframe="100" enable="Y" aid="98"/>
@@ -257,7 +257,7 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="145"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="146"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="147"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="148"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="148"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="149"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="150"/>
 		<action id="33_poke.swf" name="poke" loop="Y" totalframe="100" enable="Y" aid="151"/>
@@ -314,7 +314,7 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="198"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="199"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="200"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="201"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="201"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="202"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="203"/>
 		<action id="33_poke.swf" name="poke" loop="Y" totalframe="100" enable="Y" aid="204"/>
@@ -511,7 +511,7 @@
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="357"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="358"/>
 		<action id="wave_A.swf" name="wave to" loop="Y" totalframe="100" enable="Y" aid="359"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="360"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="360"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="361"/>
 		<action id="33_poke.swf" name="poke" loop="Y" totalframe="100" enable="Y" aid="362"/>
 		<action id="39_shake2.swf" name="get poked by" loop="Y" totalframe="100" enable="Y" aid="363"/>
@@ -558,7 +558,7 @@
 		<action id="11_laugh.swf" name="laugh at" loop="Y" totalframe="100" enable="Y" aid="402"/>
 		<action id="wave_A.swf" name="wave to" loop="Y" totalframe="100" enable="Y" aid="403"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="404"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="405"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="405"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="406"/>
 		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="407"/>
 		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="408"/>
@@ -610,7 +610,7 @@
 		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="452"/>
 		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="453"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="454"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="455"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="455"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="456"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="457"/>
 		<action id="wave_A.swf" name="wave to" loop="Y" totalframe="100" enable="Y" aid="458"/>
@@ -659,7 +659,7 @@
 		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="499"/>
 		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="500"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="501"/>
-		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="502"/>
+		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="N" aid="502"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="503"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="504"/>
 		<action id="wave_A.swf" name="wave to" loop="Y" totalframe="100" enable="Y" aid="505"/>
