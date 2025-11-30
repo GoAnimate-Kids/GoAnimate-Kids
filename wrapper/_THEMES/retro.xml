@@ -454,16 +454,16 @@
 		<action id="dog04-lick.swf" name="lick" loop="Y" totalframe="45" enable="Y" aid="223"/>
 		<action id="dog05-sit-angry.swf" name="become angry at" loop="Y" totalframe="6" enable="Y" aid="224"/>
 		<action id="dog07-tongue.swf" name="Drool on" loop="Y" totalframe="26" enable="Y" aid="225"/>
-		<action id="dog08-pat.swf" name="shake at" loop="Y" totalframe="9" enable="Y" aid="226"/>
+		<action id="dog08-pat.swf" name="shake at" loop="Y" totalframe="9" enable="N" aid="226"/>
 		<action id="dog09-scratch.swf" name="scratch at" loop="Y" totalframe="32" enable="Y" aid="227"/>
 		<action id="dog10-sleep.swf" name="sleep with" loop="Y" totalframe="1" enable="Y" aid="228"/>
 		<action id="dog11-shit.swf" name="poop on" loop="Y" totalframe="160" enable="N" aid="229"/>
 		<action id="dog12-pee.swf" name="pee on" loop="Y" totalframe="68" enable="N" aid="230"/>
 		<action id="dog13-beg.swf" name="beg" loop="Y" totalframe="1" enable="Y" aid="231"/>
-		<action id="dog14-vomit.swf" name="vomit on" loop="Y" totalframe="120" enable="Y" aid="232"/>
+		<action id="dog14-vomit.swf" name="vomit on" loop="Y" totalframe="120" enable="N" aid="232"/>
 		<action id="dog15-fart.swf" name="fart on" loop="Y" totalframe="60" enable="N" aid="233"/>
 		<action id="dog16-woo.swf" name="howl at" loop="Y" totalframe="80" enable="Y" aid="234"/>
-		<action id="dog18-die.swf" name="die for" loop="Y" totalframe="40" enable="Y" aid="235"/>
+		<action id="dog18-die.swf" name="die for" loop="Y" totalframe="40" enable="N" aid="235"/>
 		<action id="dog19-bite.swf" name="bite" loop="Y" totalframe="2" enable="Y" aid="236"/>
 	</char>
 	<char id="cupid" name="Cupid" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="317" money="0" sharing="0">
@@ -1205,7 +1205,7 @@
 		<action id="desperate.swf" name="desperate" loop="Y" totalframe="43" enable="Y" aid="4820"/>
 		<action id="bored.swf" name="bored" loop="Y" totalframe="130" enable="Y" aid="4821"/>
 		<action id="dance.swf" name="Dance" loop="Y" totalframe="44" enable="Y" aid="4822"/>
-		<action id="die.swf" name="Die" loop="N" totalframe="72" enable="Y" aid="4823"/>
+		<action id="die.swf" name="Die" loop="N" totalframe="72" enable="N" aid="4823"/>
 		<action id="fart.swf" name="Fart" loop="Y" totalframe="48" enable="N" aid="4824"/>
 		<action id="kiss.swf" name="Kiss" loop="Y" totalframe="54" enable="Y" aid="4825"/>
 		<action id="laugh.swf" name="Laugh" loop="Y" totalframe="3" enable="Y" aid="4826"/>
