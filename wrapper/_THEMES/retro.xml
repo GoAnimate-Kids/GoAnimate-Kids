@@ -464,7 +464,7 @@
 		<action id="dog15-fart.swf" name="fart on" loop="Y" totalframe="60" enable="N" aid="233"/>
 		<action id="dog16-woo.swf" name="howl at" loop="Y" totalframe="80" enable="Y" aid="234"/>
 		<action id="dog18-die.swf" name="die for" loop="Y" totalframe="40" enable="N" aid="235"/>
-		<action id="dog19-bite.swf" name="bite" loop="Y" totalframe="2" enable="Y" aid="236"/>
+		<action id="dog19-bite.swf" name="bite" loop="Y" totalframe="2" enable="N" aid="236"/>
 	</char>
 	<char id="cupid" name="Cupid" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y" is_premium="N" aid="317" money="0" sharing="0">
 		<action id="stand.swf" name="stand with" loop="Y" totalframe="100" enable="Y" aid="318"/>
