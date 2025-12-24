@@ -16965,8 +16965,8 @@
 	<prop id="msp_wadis" name="Water dispenser" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_wadis_water_dispenser.swf" enable="Y" is_premium="N" aid="11836" money="0" sharing="0">
 		<state id="msp_wadis_water_dispenser.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_wadis_ncc_water_dispenser_side.swf" name="side" enable="Y"/>
-		<state id="msp_wadis_ncc_water_dispenser01.swf" name="front - beer" enable="Y"/>
-		<state id="msp_wadis_ncc_water_dispenser01_side.swf" name="side - beer" enable="Y"/>
+		<state id="msp_wadis_ncc_water_dispenser01.swf" name="front - beer" enable="N"/>
+		<state id="msp_wadis_ncc_water_dispenser01_side.swf" name="side - beer" enable="N"/>
 		<state id="msp_wadis_ncc_water_dispenser02.swf" name="front - fish tank" enable="Y"/>
 		<state id="msp_wadis_ncc_water_dispenser02_side.swf" name="side - fish tank" enable="Y"/>
 	</prop>
