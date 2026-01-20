@@ -13,7 +13,10 @@
   <char id="10004" name="Amelia Earhart" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/amelia.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs Characters</tags>
   </char>
-  <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor.png" copyable="Y">
+  <char id="10011" name="Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor2.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs Characters</tags>
   </char>
   <char id="10002" name="Halloween - Skeleton" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/skeleton.png" copyable="Y">
