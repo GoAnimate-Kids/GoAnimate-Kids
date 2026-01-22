@@ -377,6 +377,8 @@
 	<library type="GoUpper" id="017" path="017" name="017" thumb="017_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="018" path="018" name="018" thumb="018_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="019" path="019" name="019" thumb="019_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="cowboy" path="cowboy" name="cowboy" thumb="cowboy_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="cowboy2" path="cowboy2" name="cowboy2" thumb="cowboy2_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="knight" path="knight" name="knight" thumb="knight_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="overalls" path="overalls" name="overalls" thumb="overalls_thumbnail.swf" money="0" sharing="0" enable="Y" />
