@@ -468,6 +468,7 @@
     <library type="GoHair" id="knight" path="knight" name="knight" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
     <library type="GoHair" id="rocker_male" path="rocker_male" name="rocker_male" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="rocker_female" path="rocker_female" name="rocker_female" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="turban" path="turban" name="turban" thumb="" money="0" sharing="0" enable="Y" />
 	<library type="GoHair" id="viking" path="viking" name="viking" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	
 	<library type="GoHair" id="amelia" path="amelia" name="amelia" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
@@ -721,6 +722,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="rocker_female" path="rocker_female" name="rocker_female" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="turban" path="turban" name="turban" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="viking" path="viking" name="viking" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
