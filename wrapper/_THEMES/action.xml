@@ -532,6 +532,9 @@
   <char id="12024" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_024.png" copyable="Y">
     <tags>cc2,_free,_cat:GoAnimate Classics</tags>
   </char>
+  <char id="5022" name="St. Patrick's Day - Leprechaun" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/stpatrick/leprechaun.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
   <char id="5010" name="Easter - Easter Bunny" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/easter/bunny.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
