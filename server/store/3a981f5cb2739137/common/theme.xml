@@ -16926,7 +16926,7 @@
 		<state id="msp_conbelt01_ncc_conbelt_forward.swf" name="going left" enable="Y"/>
 		<state id="msp_conbelt01_ncc_conbelt_still.swf" name="still" enable="Y"/>
 	</prop>
-	<prop id="msp_gate" name="Trap door" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_gate_ncc_gate_full.swf" enable="Y" is_premium="Y" aid="11807" money="0" sharing="0">
+	<prop id="msp_gate" name="Trap door" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_gate_ncc_gate_full.swf" enable="N" is_premium="Y" aid="11807" money="0" sharing="0">
 		<state id="msp_gate_ncc_gate_cover.swf" name="front part" enable="Y"/>
 		<state id="msp_gate_ncc_gate_full.swf" name="closed" enable="Y" default="Y"/>
 		<state id="msp_gate_ncc_gate_opened.swf" name="opened" enable="Y"/>
@@ -16955,7 +16955,7 @@
 		<state id="msp_off_poster03_ncc_off_poster03.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_off_poster03_ncc_off_poster03_side.swf" name="side" enable="Y"/>
 	</prop>
-	<prop id="msp_piranha" name="Carnivorous plant" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_piranha_ncc_piranha01.swf" enable="Y" is_premium="Y" aid="11830" money="0" sharing="0">
+	<prop id="msp_piranha" name="Carnivorous plant" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_piranha_ncc_piranha01.swf" enable="N" is_premium="Y" aid="11830" money="0" sharing="0">
 		<state id="msp_piranha_ncc_piranha01.swf" name="still" enable="Y" default="Y"/>
 		<state id="msp_piranha_ncc_piranha02.swf" name="bite" enable="Y"/>
 		<state id="msp_piranha_ncc_piranha03.swf" name="showing teeth" enable="Y"/>
