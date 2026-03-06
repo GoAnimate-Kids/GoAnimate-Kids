@@ -4378,6 +4378,9 @@
   <char id="7040" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/guy_011.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
   </char>
+  <char id="5023" name="St. Patrick's Day - Leprechaun" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/stpatricksday/leprechaun.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays,_tag:male</tags>
+  </char>
   <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>
