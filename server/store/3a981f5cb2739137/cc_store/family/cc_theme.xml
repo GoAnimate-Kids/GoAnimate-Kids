@@ -6165,8 +6165,18 @@
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="dreadlocks_2" path="dreadlocks_2" name="dreadlocks_2" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
+	</component>
 	<component type="hair" id="dreadlocks_3" path="dreadlocks_3" name="dreadlocks_3" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
+	<component type="hair" id="dreadlocks_5" path="dreadlocks_5" name="dreadlocks_5" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="hair" id="hijab" path="hijab" name="hijab" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
