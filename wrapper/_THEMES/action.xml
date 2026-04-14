@@ -418,7 +418,16 @@
   <char id="9081" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_077.png" copyable="Y">
     <tags>cc2,_free,_cat:Casual</tags>
   </char>
+  <char id="9085" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_080.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual</tags>
+  </char>
   <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs</tags>
+  </char>
+  <char id="3028" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_female_peepz.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs</tags>
+  </char>
+  <char id="3027" name="Soldier" cc_theme_id="cc2" thumbnail_url="thumbnails/soldier_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="3023" name="Scientist" cc_theme_id="cc2" thumbnail_url="thumbnails/scientist.png" copyable="Y">
@@ -428,6 +437,9 @@
     <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="3022" name="Magician" cc_theme_id="cc2" thumbnail_url="thumbnails/magician_peepz.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs</tags>
+  </char>
+  <char id="3029" name="Gladiator" cc_theme_id="cc2" thumbnail_url="thumbnails/gladiator.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="14001" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_001.png" copyable="Y">

@@ -4063,6 +4063,12 @@
   <char id="4063" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_062.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
+  <char id="4064" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_063.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4065" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_064.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
@@ -4222,6 +4228,12 @@
   <char id="9077" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_073.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:female</tags>
   </char>
+  <char id="9083" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_078.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
+  <char id="9084" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_079.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
   <char id="9032" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_001.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
@@ -4234,8 +4246,14 @@
   <char id="9059" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_004.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:female</tags>
   </char>
-  <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher.png" copyable="Y">
+  <char id="9082" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_005.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
+  <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher_male.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="3026" name="Mrs. Thompson" cc_theme_id="family" thumbnail_url="thumbnails/teacher_female.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:female</tags>
   </char>
   <char id="3002" name="Doctor" cc_theme_id="family" thumbnail_url="thumbnails/doctor.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
