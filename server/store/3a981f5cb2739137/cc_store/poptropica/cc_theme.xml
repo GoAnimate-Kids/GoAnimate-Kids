@@ -462,6 +462,7 @@
     <library type="GoHair" id="afro005" path="afro005" name="afro005" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="balding001" path="balding001" name="balding001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="balding002" path="balding002" name="balding002" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="beanie" path="beanie" name="beanie" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="dreads" path="dreads" name="dreads" thumb="" money="0" sharing="0" enable="Y" />
 	<library type="GoHair" id="farmer" path="farmer" name="farmer" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="hijab" path="hijab" name="hijab" thumb="" money="0" sharing="0" enable="Y" />
@@ -563,6 +564,15 @@
     <state id="shock" filename="shock.swf" />
   </component>
   <component type="eye" id="female_squint" path="female_squint" name="female_squint" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="closed_eye" filename="closed_eye.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="shock" filename="shock.swf" />
+  </component>
+  <component type="eye" id="zomberry" path="zomberry" name="zomberry" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="cry" filename="cry.swf" />
@@ -704,6 +714,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="balding002" path="balding002" name="balding002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="beanie" path="beanie" name="beanie" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="dreads" path="dreads" name="dreads" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -931,6 +944,16 @@
     <state id="talk" filename="talk.swf" />
   </component>
   <component type="mouth" id="105" path="105" name="105" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="106" path="106" name="106" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
     <state id="default" filename="default.swf" />
