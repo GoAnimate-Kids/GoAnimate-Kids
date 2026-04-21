@@ -28,15 +28,15 @@
 		<choice>0x3A1B10</choice>
 	</color>
 	<color r="ccEyeIris" component_type="eye" enable="Y">
-		<choice>0x7892C6</choice>
-		<choice>0x669900</choice>
+		<choice>0x3F5FAF</choice>
+		<choice>0x4B9157</choice>
 		<choice>0x988986</choice>
 		<choice>0x7D551C</choice>
 		<choice>0x000000</choice>
 		<choice>0xA3C6E6</choice>
-		<choice>0x3F5FAF</choice>
+		<choice>0x7892C6</choice>
 		<choice>0x99CC66</choice>
-		<choice>0x4B9157</choice>
+		<choice>0x669900</choice>
 		<choice>0xA9744F</choice>
 		<choice>0x4A2C0A</choice>
 		<choice>0xB0B0B0</choice>
