@@ -6300,6 +6300,10 @@
 		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="goanimatekids_afro_hairband" path="goanimatekids_afro_hairband" name="goanimatekids_afro_hairband" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
 	<component type="hair" id="goanimatekids_long_braid" path="goanimatekids_long_braid" name="goanimatekids_long_braid" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
