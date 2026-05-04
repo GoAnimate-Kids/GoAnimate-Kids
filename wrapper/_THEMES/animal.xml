@@ -179,7 +179,40 @@
   <char id="2020" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2048" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2049" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male3.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2050" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male4.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2051" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male5.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2052" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male6.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2053" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male7.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2019" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2043" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_female2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2044" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_female3.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2045" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_female4.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2046" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_female5.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2047" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_female6.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
   <char id="2022" name="Raccoon" cc_theme_id="cc2" thumbnail_url="thumbnails/raccoon_male.png" copyable="Y">
