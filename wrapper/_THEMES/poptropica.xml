@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="poptropica" name="Poptropica" cc_theme_id="poptropica">
+  <background id="beach.swf" name="Beach" enable="Y" default="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="cellphone.swf" name="Phone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <char id="10005" name="Oliver" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/oliver.png" copyable="Y">
     <tags>poptropica,_free,_cat:Kids</tags>
