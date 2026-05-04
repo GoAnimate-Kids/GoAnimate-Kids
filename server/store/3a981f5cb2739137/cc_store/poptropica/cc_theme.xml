@@ -363,6 +363,7 @@
 	<library type="GoUpper" id="003" path="003" name="003" thumb="003_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="004" path="004" name="004" thumb="004_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="005" path="005" name="005" thumb="005_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="005_crop_top" path="005_crop_top" name="005_crop_top" thumb="005_crop_top_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="006" path="006" name="006" thumb="006_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="007" path="007" name="007" thumb="007_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" money="0" sharing="0" enable="Y" />
@@ -455,6 +456,7 @@
     <library type="GoHair" id="036" path="036" name="036" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="037" path="037" name="037" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="038" path="038" name="038" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="039" path="039" name="039" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="afro001" path="afro001" name="afro001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="afro002" path="afro002" name="afro002" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="afro003" path="afro003" name="afro003" thumb="" money="0" sharing="0" enable="Y" />
@@ -693,6 +695,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="038" path="038" name="038" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="039" path="039" name="039" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="afro001" path="afro001" name="afro001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
