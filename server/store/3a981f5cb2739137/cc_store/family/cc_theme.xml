@@ -6304,9 +6304,21 @@
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="goanimatekids_braided_ponytail" path="goanimatekids_braided_ponytail" name="goanimatekids_braided_ponytail" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
+	<component type="hair" id="goanimatekids_knots" path="goanimatekids_knots" name="goanimatekids_knots" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
+	</component>
 	<component type="hair" id="goanimatekids_long_braid" path="goanimatekids_long_braid" name="goanimatekids_long_braid" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
+	</component>
+	<component type="hair" id="goanimatekids_man_bun" path="goanimatekids_man_bun" name="goanimatekids_man_bun" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="goanimatekids_space_buns" path="goanimatekids_space_buns" name="goanimatekids_space_buns" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -6760,6 +6772,9 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="beard" id="goanimatekids_french_fork" path="goanimatekids_french_fork" name="goanimatekids_french_fork" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="beard" id="goanimatekids_mutton_chops" path="goanimatekids_mutton_chops" name="goanimatekids_mutton_chops" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="mustache" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
