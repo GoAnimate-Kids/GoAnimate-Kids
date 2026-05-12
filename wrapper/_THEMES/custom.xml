@@ -4055,10 +4055,10 @@
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
   <char id="4060" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_059.png" copyable="Y">
-    <tags>family,_free,_cat:Kids,_tag:male</tags>
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
   </char>
   <char id="4062" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_061.png" copyable="Y">
-    <tags>family,_free,_cat:Kids,_tag:male</tags>
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
   </char>
   <char id="4063" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_062.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
@@ -4067,6 +4067,15 @@
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
   <char id="4065" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_064.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
+  <char id="4067" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_066.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4068" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_067.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
+  <char id="4069" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_068.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
