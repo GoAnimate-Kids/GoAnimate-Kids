@@ -209,6 +209,14 @@
 		<selection type="hair" state_id="default"/>
 		<selection type="mouth" state_id="cry"/>
 	</facial>
+	<facial id="head_desperate" name="Desperate" enable="Y">
+		<selection type="eye" state_id="closed_eye"/>
+		<selection type="facedecoration" state_id="default"/>
+		<selection type="faceshape" state_id="default"/>
+		<selection type="glasses" state_id="default"/>
+		<selection type="hair" state_id="default"/>
+		<selection type="mouth" state_id="angry"/>
+	</facial>
 	<facial id="head_happy" name="Happy" enable="Y">
 		<selection type="eye" state_id="happy"/>
 		<selection type="facedecoration" state_id="default"/>
@@ -256,6 +264,22 @@
 		<selection type="glasses" state_id="default"/>
 		<selection type="hair" state_id="default"/>
 		<selection type="mouth" state_id="cry"/>
+	</facial>
+	<facial id="head_sing" name="Sing" enable="Y">
+		<selection type="eye" state_id="closed_eye"/>
+		<selection type="facedecoration" state_id="default"/>
+		<selection type="faceshape" state_id="default"/>
+		<selection type="glasses" state_id="default"/>
+		<selection type="hair" state_id="default"/>
+		<selection type="mouth" state_id="talk"/>
+	</facial>
+	<facial id="head_singexcited" name="Sing Excitedly" enable="Y">
+		<selection type="eye" state_id="closed_eye"/>
+		<selection type="facedecoration" state_id="default"/>
+		<selection type="faceshape" state_id="default"/>
+		<selection type="glasses" state_id="default"/>
+		<selection type="hair" state_id="default"/>
+		<selection type="mouth" state_id="happy"/>
 	</facial>
 	<facial id="head_sleep" name="Sleeping" enable="Y">
 		<selection type="eye" state_id="closed_eye"/>
