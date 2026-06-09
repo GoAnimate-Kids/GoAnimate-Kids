@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="poptropica" name="Poptropica" cc_theme_id="poptropica">
   <background id="beach.swf" name="Beach" enable="Y" default="N" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <background id="cheetahrun.swf" name="" enable="N" default="N" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="cheetahrun_background1.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="cheetahrun_foreground2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="airconditioner.swf" name="Air conditioner" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="msp_blimp" name="Blimp" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_blimp.swf" enable="Y" is_premium="N" aid="1000" money="0" sharing="0">
+    <state id="msp_blimp.swf" name="Default" enable="Y" default="Y"/>
+	<state id="msp_blimp_assembled.swf" name="Assembled" enable="Y"/>
+	<state id="msp_blimp_rope.swf" name="Rope" enable="Y"/>
+  </prop>
+  <prop id="bush.swf" name="Bush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="cheetah_run.swf" name="Cheetah" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="cloud.swf" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="concrete_block.swf" name="Concrete Block" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="msp_croco" name="Crocodile" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_croco_idle.swf" enable="Y" is_premium="N" aid="1000" money="0" sharing="0">
+    <state id="msp_croco_idle.swf" name="Idle" enable="Y" default="Y"/>
+	<state id="msp_croco_hit.swf" name="Hit" enable="Y"/>
+  </prop>
+  <prop id="city2_smallfern.swf" name="Fern" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="lamppost_01.swf" name="Lamp Post" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="msp_meercats" name="Meerkats" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_meercats_idle.swf" enable="N" is_premium="N" aid="1000" money="0" sharing="0">
+    <state id="msp_meercats_idle.swf" name="Idle" enable="Y" default="Y"/>
+	<state id="msp_meercats_hit.swf" name="Hit" enable="Y"/>
+  </prop>
+  <prop id="ancient_pillar_large.swf" name="Large Ancient Pillar" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="cellphone.swf" name="Phone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="ancient_pillar_small.swf" name="Small Ancient Pillar" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="trashcan_01.swf" name="Trash Can" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="tree01.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="tree02.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="tree03.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="tree04.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="tree05.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="tree06.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="city2_watertower.swf" name="Water Tower" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="wooden_barrel.swf" name="Wooden Barrel" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="wooden_sign.swf" name="Wooden Sign" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+
+  <compositebg id="savannah" name="Savannah" enable="Y" default="N" thumb="savannah.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="20713">
+    <bg id="savannah_BG" index="0">
+      <file>poptropica.cheetahrun.swf</file>
+    </bg>
+    <prop id="savannah_PROP3" index="1">
+      <file>poptropica.cheetahrun_foreground2.swf</file>
+      <x>322</x>
+      <y>285.2563696</y>
+      <xscale>0.32</xscale>
+      <yscale>0.32</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="savannah_PROP4" index="3">
+      <file>poptropica.cheetahrun_background1.swf</file>
+      <x>322</x>
+      <y>235.7063696</y>
+      <xscale>0.4202258</xscale>
+      <yscale>0.4202258</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+    <prop id="savannah_PROP7" index="2">
+      <file>poptropica.msp_meercats.msp_meercats_idle.swf</file>
+      <x>331.6435133</x>
+      <y>252.6666667</y>
+      <xscale>0.2594697</xscale>
+      <yscale>0.2594697</yscale>
+      <face>1</face>
+      <rotation>0</rotation>
+    </prop>
+  </compositebg>
   <char id="10005" name="Oliver" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/oliver.png" copyable="Y">
     <tags>poptropica,_free,_cat:Kids</tags>
   </char>
