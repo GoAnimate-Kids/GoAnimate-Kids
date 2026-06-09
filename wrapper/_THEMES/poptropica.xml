@@ -6,6 +6,7 @@
   <prop id="cheetahrun_foreground2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="airconditioner.swf" name="Air conditioner" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="apple.swf" name="Apple" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="banana.swf" name="Banana" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="msp_blimp" name="Blimp" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_blimp.swf" enable="Y" is_premium="N" aid="1000" money="0" sharing="0">
     <state id="msp_blimp.swf" name="Default" enable="Y" default="Y"/>
 	<state id="msp_blimp_assembled.swf" name="Assembled" enable="Y"/>
