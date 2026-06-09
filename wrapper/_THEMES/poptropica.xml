@@ -70,6 +70,9 @@
       <rotation>0</rotation>
     </prop>
   </compositebg>
+  <char id="10014" name="Untitled" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/kid_001.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
   <char id="10005" name="Oliver" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/oliver.png" copyable="Y">
     <tags>poptropica,_free,_cat:Kids</tags>
   </char>
