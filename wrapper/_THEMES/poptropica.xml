@@ -5,6 +5,7 @@
   <prop id="cheetahrun_background1.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="cheetahrun_foreground2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="airconditioner.swf" name="Air conditioner" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="apple.swf" name="Apple" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="msp_blimp" name="Blimp" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_blimp.swf" enable="Y" is_premium="N" aid="1000" money="0" sharing="0">
     <state id="msp_blimp.swf" name="Default" enable="Y" default="Y"/>
 	<state id="msp_blimp_assembled.swf" name="Assembled" enable="Y"/>
@@ -35,8 +36,8 @@
   <prop id="tree05.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="tree06.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
   <prop id="city2_watertower.swf" name="Water Tower" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
-  <prop id="wooden_barrel.swf" name="Wooden Barrel" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
-  <prop id="wooden_sign.swf" name="Wooden Sign" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="wooden_barrel_01.swf" name="Wooden Barrel" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <prop id="wooden_sign_01.swf" name="Wooden Sign" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
 
   <compositebg id="savannah" name="Savannah" enable="Y" default="N" thumb="savannah.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="20713">
     <bg id="savannah_BG" index="0">
