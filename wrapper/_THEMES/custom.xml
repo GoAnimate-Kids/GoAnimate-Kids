@@ -4114,6 +4114,9 @@
   <char id="7005" name="Grandpa" cc_theme_id="family" thumbnail_url="thumbnails/grandpa.png" copyable="Y">
     <tags>family,_free,_cat:Parents,_tag:male</tags>
   </char>
+  <char id="9087" name="Blippi" cc_theme_id="family" thumbnail_url="thumbnails/blippi.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
   <char id="9001" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_001.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
