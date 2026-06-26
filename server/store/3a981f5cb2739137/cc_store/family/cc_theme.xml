@@ -6212,6 +6212,10 @@
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="6022a" path="6022a" name="6022a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+	</component>
 	<component type="hair" id="afro" path="afro" name="afro" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>boy</tag>
