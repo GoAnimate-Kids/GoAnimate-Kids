@@ -98,13 +98,64 @@
   <char id="2006" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2060" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2061" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male3.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2062" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male4.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2063" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male5.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2064" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male6.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2065" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male7.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2066" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male8.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2005" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2054" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2055" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female3.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2056" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female4.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2057" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female5.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2058" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female6.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2059" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female7.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
   <char id="2038" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2069" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2070" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby3.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2037" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tabby.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2067" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tabby2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2068" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tabby3.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
   <char id="2040" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_calico.png" copyable="Y">
