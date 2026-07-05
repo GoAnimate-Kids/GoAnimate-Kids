@@ -6357,6 +6357,14 @@
 		<state id="default" filename="default.swf"/>
 		<tag>boy</tag>
 	</component>
+	<component type="hair" id="goanimatekids_new_hairstyle8" path="goanimatekids_new_hairstyle8" name="goanimatekids_new_hairstyle8" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
+	<component type="hair" id="goanimatekids_new_hairstyle9" path="goanimatekids_new_hairstyle9" name="goanimatekids_new_hairstyle9" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+	</component>
 	<component type="hair" id="mario" path="mario" name="mario" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
