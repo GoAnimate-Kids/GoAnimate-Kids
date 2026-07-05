@@ -410,6 +410,7 @@
 	<library type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="knight" path="knight" name="knight" thumb="knight_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="overalls" path="overalls" name="overalls" thumb="overalls_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="police" path="police" name="police" thumb="police_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 	<library type="GoUpper" id="spy" path="spy" name="spy" thumb="spy_thumbnail.swf" money="0" sharing="0" enable="Y" />
 
@@ -484,6 +485,7 @@
     <library type="GoHair" id="037" path="037" name="037" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="038" path="038" name="038" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="039" path="039" name="039" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="040" path="040" name="040" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="afro001" path="afro001" name="afro001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="afro002" path="afro002" name="afro002" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="afro003" path="afro003" name="afro003" thumb="" money="0" sharing="0" enable="Y" />
@@ -725,6 +727,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="039" path="039" name="039" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="040" path="040" name="040" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="afro001" path="afro001" name="afro001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -1061,6 +1066,9 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="long_beard" path="long_beard" name="long_beard" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="police" path="police" name="police" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">

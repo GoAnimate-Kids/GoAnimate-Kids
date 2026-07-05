@@ -87,6 +87,9 @@
   <char id="10004" name="Amelia Earhart" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/amelia.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs Characters</tags>
   </char>
+  <char id="10015" name="Police Officer" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/police_female.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="10011" name="Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs Characters</tags>
   </char>
