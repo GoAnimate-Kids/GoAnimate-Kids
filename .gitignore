@@ -118,3 +118,4 @@ dist
 *.sfap0
 wrapper/.vscode/settings.json
 wrapper/die.zip
+wrapper/package-lock.json
