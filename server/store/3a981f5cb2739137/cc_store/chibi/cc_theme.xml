@@ -2918,7 +2918,6 @@
 		<library type="GoBehindBody" id="6013" path="6013" name="6013" thumb="6013_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="6014" path="6014" name="6014" thumb="6014_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="6015" path="6015" name="6015" thumb="6015_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-		<library type="GoBehindBody" id="phantom_cape" path="phantom_cape" name="phantom_cape" thumb="phantom_cape_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 
 		<!-- HANDS START HERE -->
 		<library type="GoHands" id="6001" path="6001" name="6001" thumb="6001_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
