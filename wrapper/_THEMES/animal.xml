@@ -119,6 +119,21 @@
   <char id="2066" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male8.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2038" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2069" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby2.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2070" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby3.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2040" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_calico.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2042" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tuxedo.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2005" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
@@ -140,15 +155,6 @@
   <char id="2059" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female7.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
-  <char id="2038" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby.png" copyable="Y">
-    <tags>cc2,_free,_cat:Animals</tags>
-  </char>
-  <char id="2069" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby2.png" copyable="Y">
-    <tags>cc2,_free,_cat:Animals</tags>
-  </char>
-  <char id="2070" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tabby3.png" copyable="Y">
-    <tags>cc2,_free,_cat:Animals</tags>
-  </char>
   <char id="2037" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tabby.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
@@ -158,13 +164,7 @@
   <char id="2068" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tabby3.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
-  <char id="2040" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_calico.png" copyable="Y">
-    <tags>cc2,_free,_cat:Animals</tags>
-  </char>
   <char id="2039" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_calico.png" copyable="Y">
-    <tags>cc2,_free,_cat:Animals</tags>
-  </char>
-  <char id="2042" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_male_tuxedo.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
   <char id="2041" name="Cat" cc_theme_id="cc2" thumbnail_url="thumbnails/cat_female_tuxedo.png" copyable="Y">
