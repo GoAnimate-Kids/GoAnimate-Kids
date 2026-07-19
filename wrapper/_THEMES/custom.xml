@@ -4081,6 +4081,12 @@
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
+  <char id="15001" name="William - Swimsuit" cc_theme_id="family" thumbnail_url="thumbnails/william_swimsuit.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="15002" name="Allison - Swimsuit" cc_theme_id="family" thumbnail_url="thumbnails/allison_swimsuit.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
   <char id="7015" name="Lucas's Brother" cc_theme_id="family" thumbnail_url="thumbnails/lucas_brother.png" copyable="Y">
     <tags>family,_free,_cat:Siblings,_tag:male</tags>
   </char>
