@@ -5951,6 +5951,7 @@
 	</component>
 	<component type="hair" id="072" path="072" name="072" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="hair" id="078" path="078" name="078" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -6364,6 +6365,11 @@
 	<component type="hair" id="goanimatekids_new_hairstyle9" path="goanimatekids_new_hairstyle9" name="goanimatekids_new_hairstyle9" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>boy</tag>
+	</component>
+	<component type="hair" id="goanimatekids_new_hairstyle10" path="goanimatekids_new_hairstyle10" name="goanimatekids_new_hairstyle10" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="mario" path="mario" name="mario" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
