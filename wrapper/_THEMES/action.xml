@@ -313,6 +313,9 @@
   <char id="4066" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_065.png" copyable="Y">
     <tags>cc2,_free,_cat:Kids</tags>
   </char>
+  <char id="16001" name="Baby" cc_theme_id="cc2" thumbnail_url="thumbnails/baby.png" copyable="Y">
+    <tags>cc2,_free,_cat:Kids</tags>
+  </char>
   <char id="9021" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_021.png" copyable="Y">
     <tags>cc2,_free,_cat:Casual</tags>
   </char>
