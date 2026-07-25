@@ -407,12 +407,14 @@
 	<library type="GoUpper" id="019" path="019" name="019" thumb="019_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="cowboy" path="cowboy" name="cowboy" thumb="cowboy_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="cowboy2" path="cowboy2" name="cowboy2" thumb="cowboy2_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoUpper" id="denim" path="denim" name="denim" thumb="denim_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="knight" path="knight" name="knight" thumb="knight_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="overalls" path="overalls" name="overalls" thumb="overalls_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="police" path="police" name="police" thumb="police_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 	<library type="GoUpper" id="spy" path="spy" name="spy" thumb="spy_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="tuxedo" path="tuxedo" name="tuxedo" thumb="tuxedo_thumbnail.swf" money="0" sharing="0" enable="Y" />
 
 	<library type="GoUpper" id="amelia" path="amelia" name="amelia" thumb="amelia_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
     <library type="GoUpper" id="black_widow" path="black_widow" name="black_widow" thumb="black_widow_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
@@ -504,6 +506,7 @@
 	<library type="GoHair" id="viking" path="viking" name="viking" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	
 	<library type="GoHair" id="amelia" path="amelia" name="amelia" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoHair" id="director_d" path="director_d" name="director_d" thumb="" money="0" sharing="0" enable="Y"/>
 	<library type="GoHair" id="dr_hare" path="dr_hare" name="dr_hare" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="" money="0" sharing="0" enable="Y"/>
 	<library type="GoHair" id="black_widow" path="black_widow" name="black_widow" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
@@ -781,6 +784,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="amelia" path="amelia" name="amelia" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="director_d" path="director_d" name="director_d" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
