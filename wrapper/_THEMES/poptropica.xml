@@ -78,7 +78,7 @@
   <char id="10005" name="Oliver" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/oliver.png" copyable="Y">
     <tags>poptropica,_free,_cat:Kids</tags>
   </char>
-  <char id="10006" name="Jorge" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/jorge.png" copyable="Y">
+  <char id="10006" name="Jorge" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/jorge.png" copyable="N">
     <tags>poptropica,_free,_cat:Kids</tags>
   </char>
   <char id="10007" name="Mya" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mya.png" copyable="Y">
@@ -96,7 +96,7 @@
   <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor2.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs</tags>
   </char>
-  <char id="10002" name="Halloween - Skeleton" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/skeleton.png" copyable="Y">
+  <char id="10002" name="Halloween - Skeleton" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/skeleton.png" copyable="N">
     <tags>poptropica,_free,_cat:Holidays</tags>
   </char>
   <char id="10013" name="Zomberry" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/zomberry_boy.png" copyable="Y">
