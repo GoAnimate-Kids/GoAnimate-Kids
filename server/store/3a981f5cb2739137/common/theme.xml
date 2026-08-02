@@ -15379,9 +15379,9 @@
 	<prop id="ncc_beach_shovel.swf" name="Beach Shovel" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="tube_sand.swf" name="Bucket of Sand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="ncc_coconut_drink.swf" name="Coconut Drink" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
-	<prop id="ncc_jellyfish.swf" name="Jellyfish" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
-	<prop id="ncc_sandcastle1.swf" name="Sand Castle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
-	<prop id="ncc_sandcastle2.swf" name="Sand Castle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="ncc_jellyfish.swf" name="Jellyfish" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="ncc_sandcastle1.swf" name="Sand Castle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="ncc_sandcastle2.swf" name="Sand Castle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="msp_shark" name="Shark" holdable="0" placeable="1" wearable="0" facing="left" thumb="ncc_shark.swf" enable="Y" is_premium="N" aid="11337" money="0" sharing="0">
       <state id="ncc_shark.swf" name="still" enable="Y" default="Y" />
       <state id="ncc_shark_swimming.swf" name="swimming" enable="Y" />
