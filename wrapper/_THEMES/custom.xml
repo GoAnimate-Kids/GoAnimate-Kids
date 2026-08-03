@@ -4273,6 +4273,9 @@
   <char id="3014" name="Nurse" cc_theme_id="family" thumbnail_url="thumbnails/nurse.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:female</tags>
   </char>
+  <char id="3030" name="Surgeon" cc_theme_id="family" thumbnail_url="thumbnails/surgeon.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
   <char id="3004" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police_male.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
