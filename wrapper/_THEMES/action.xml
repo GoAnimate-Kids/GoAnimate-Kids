@@ -442,7 +442,10 @@
   <char id="3027" name="Soldier" cc_theme_id="cc2" thumbnail_url="thumbnails/soldier_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs</tags>
   </char>
-  <char id="3023" name="Scientist" cc_theme_id="cc2" thumbnail_url="thumbnails/scientist.png" copyable="Y">
+  <char id="3023" name="Scientist" cc_theme_id="cc2" thumbnail_url="thumbnails/scientist_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs</tags>
+  </char>
+  <char id="3031" name="Scientist" cc_theme_id="cc2" thumbnail_url="thumbnails/scientist_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs</tags>
   </char>
   <char id="3006" name="Pirate" cc_theme_id="cc2" thumbnail_url="thumbnails/pirate.png" copyable="Y">
