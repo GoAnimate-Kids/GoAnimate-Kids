@@ -373,7 +373,7 @@
     <selection type="mouth" state_id="default" />
     <selection type="nose" state_id="default" />
   </facial>
-  <facial id="head_ko" name="Knocked out" enable="Y">
+  <facial id="head_ko" name="Unconscious" enable="Y">
     <selection type="ear" state_id="default" />
     <selection type="eye" state_id="desperate" />
     <selection type="eyebrow" state_id="sad" />
@@ -494,7 +494,7 @@
     <selection type="mouth" state_id="talk_happy" />
     <selection type="nose" state_id="default" />
   </facial>
-  <facial id="head_singexcited" name="Sing Excited" enable="Y">
+  <facial id="head_singexcited" name="Sing Excitedly" enable="Y">
     <selection type="ear" state_id="default" />
     <selection type="eye" state_id="desperate" />
     <selection type="eyebrow" state_id="sad" />
@@ -615,7 +615,7 @@
     <selection type="mouth" state_id="happy02" />
     <selection type="nose" state_id="default" />
   </facial>
-  <facial id="head_inlove" name="Fall in love" enable="Y">
+  <facial id="head_inlove" name="In love" enable="Y">
     <selection type="ear" state_id="default" />
     <selection type="eye" state_id="broken01" />
     <selection type="eyebrow" state_id="shock" />
