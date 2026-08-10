@@ -4181,7 +4181,7 @@
 			<selection type="skeleton" state_id="kneel_down"/>
 			<selection type="upper_body" state_id="kneel_down"/>
 		</action>
-		<action id="talk" name="Talk" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="N">
+		<action id="talk" name="Talk" loop="Y" totalframe="100" enable="N" category="talk" is_motion="N">
 			<selection type="facial" facial_id="head_talk_a"/>
 			<selection type="lower_body" state_id="default"/>
 			<selection type="skeleton" state_id="talk_a"/>
