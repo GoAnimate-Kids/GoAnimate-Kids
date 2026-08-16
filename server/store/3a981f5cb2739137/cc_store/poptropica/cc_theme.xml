@@ -609,7 +609,7 @@
     <state id="sad" filename="sad.swf" />
     <state id="shock" filename="shock.swf" />
   </component>
-  <component type="eye" id="zomberry" path="zomberry" name="zomberry" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="eye" id="zomberry" path="zomberry" name="zomberry" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" >
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="cry" filename="cry.swf" />
