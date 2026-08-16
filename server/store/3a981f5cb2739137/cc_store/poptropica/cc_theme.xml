@@ -368,10 +368,10 @@
 			<action id="stand" name="Stand" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Poses">
 				<selection type="facial" facial_id="head_neutral"/>
 			</action>
-			<action id="sit" name="Sit" loop="Y" totalframe="26" enable="Y" is_motion="N" category="Poses">
+			<action id="sit" name="Sit" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Poses">
 				<selection type="facial" facial_id="head_neutral"/>
 			</action>
-			<action id="crossed_arms" name="Crossed Arms" loop="Y" totalframe="26" enable="Y" is_motion="N" category="Poses">
+			<action id="crossed_arms" name="Crossed Arms" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Poses">
 				<selection type="facial" facial_id="head_neutral"/>
 			</action>
 			<action id="run" name="Run" loop="Y" totalframe="26" enable="Y" is_motion="Y" category="Daily life">
