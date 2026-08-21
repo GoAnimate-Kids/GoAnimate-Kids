@@ -428,6 +428,8 @@
 	<library type="GoUpper" id="van_buren" path="van_buren" name="van_buren" thumb="van_buren_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="mayor" path="mayor" name="mayor" thumb="mayor_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="goofy_mayor_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoUpper" id="zeus" path="zeus" name="zeus" thumb="zeus_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoUpper" id="poseidon" path="poseidon" name="poseidon" thumb="poseidon_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 
     <library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoBehindBody" id="cape" path="cape" name="cape" thumb="cape_thumbnail.swf" money="0" sharing="0" enable="Y" />
@@ -450,6 +452,8 @@
 	<library type="GoLower" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="myth_toga" path="myth_toga" name="myth_toga" thumb="myth_toga_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoLower" id="poseidon" path="poseidon" name="poseidon" thumb="poseidon_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	
     <library type="GoHair" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="002" path="002" name="002" thumb="" money="0" sharing="0" enable="Y" />
@@ -519,6 +523,7 @@
     <library type="GoHair" id="mya" path="mya" name="mya" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="mayor" path="mayor" name="mayor" thumb="" money="0" sharing="0" enable="Y" />
 	<library type="GoHair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoHair" id="zeus" path="zeus" name="zeus" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 
     <library type="GoHands" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoFeet" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
@@ -819,6 +824,9 @@
   <component type="hair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="hair" id="zeus" path="zeus" name="zeus" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
@@ -949,6 +957,16 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
+  <component type="mouth" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
   <component type="mouth" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
@@ -1056,6 +1074,9 @@
 	<component type="facedecoration" id="mustache006" path="mustache006" name="mustache006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="facedecoration" id="mustache_poseidon" path="mustache_poseidon" name="mustache_poseidon" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="facedecoration" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
@@ -1078,6 +1099,9 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="police" path="police" name="police" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="poseidon_crown" path="poseidon_crown" name="poseidon_crown" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" split="N">
