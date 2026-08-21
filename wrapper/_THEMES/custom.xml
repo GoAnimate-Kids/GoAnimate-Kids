@@ -4282,8 +4282,11 @@
   <char id="3018" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police_female.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:female</tags>
   </char>
-  <char id="3003" name="Firefighter" cc_theme_id="family" thumbnail_url="thumbnails/firefighter.png" copyable="Y">
+  <char id="3003" name="Firefighter" cc_theme_id="family" thumbnail_url="thumbnails/firefighter_male.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="3032" name="Firefighter" cc_theme_id="family" thumbnail_url="thumbnails/firefighter_female.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:female</tags>
   </char>
   <char id="3001" name="Builder" cc_theme_id="family" thumbnail_url="thumbnails/builder.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
