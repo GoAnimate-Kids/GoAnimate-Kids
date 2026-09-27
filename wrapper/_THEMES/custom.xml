@@ -4453,6 +4453,9 @@
   <char id="5007" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_female.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:female</tags>
   </char>
+  <char id="5025" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_male2.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays,_tag:male</tags>
+  </char>
   <char id="5012" name="Christmas - Santa Claus" cc_theme_id="family" thumbnail_url="thumbnails/holidays/xmas/santa.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>

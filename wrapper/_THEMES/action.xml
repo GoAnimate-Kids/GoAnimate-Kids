@@ -577,6 +577,9 @@
   <char id="5010" name="Easter - Easter Bunny" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/easter/bunny.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
+  <char id="5026" name="Halloween - Count Dracula" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/dracula.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays,_tag:vampire</tags>
+  </char>
   <char id="5016" name="Halloween - Frankenstein's Monster" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/frank_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
