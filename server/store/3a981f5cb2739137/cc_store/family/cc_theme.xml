@@ -5876,6 +5876,9 @@
 	<component type="nose" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="nose" id="rickastley" path="rickastley" name="rickastley" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="nose" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>boy</tag>
@@ -6457,6 +6460,10 @@
 		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
+	<component type="hair" id="goanimatekids_new_hairstyle11" path="goanimatekids_new_hairstyle11" name="goanimatekids_new_hairstyle11" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
 	<component type="hair" id="mario" path="mario" name="mario" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
@@ -6505,9 +6512,6 @@
 		<state id="default" filename="default.swf"/>
 		<tag>boy</tag>
 		<tag>girl</tag>
-	</component>
-	<component type="nose" id="rickastley" path="rickastley" name="rickastley" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="beard" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
