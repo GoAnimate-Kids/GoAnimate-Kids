@@ -4117,6 +4117,12 @@
   <char id="9087" name="Blippi" cc_theme_id="family" thumbnail_url="thumbnails/blippi.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
+  <char id="9094" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_087.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
+  <char id="9093" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_086.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
   <char id="9001" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_001.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
@@ -4245,6 +4251,18 @@
   </char>
   <char id="9084" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_079.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
+  <char id="9089" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_082.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
+  </char>
+  <char id="9090" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_083.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
+  <char id="9091" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_084.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:female</tags>
+  </char>
+  <char id="9092" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_085.png" copyable="Y">
+    <tags>family,_free,_cat:Casual,_tag:male</tags>
   </char>
   <char id="9032" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_001.png" copyable="Y">
     <tags>family,_free,_cat:Casual,_tag:male</tags>
