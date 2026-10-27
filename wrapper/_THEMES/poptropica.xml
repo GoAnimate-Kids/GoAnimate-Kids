@@ -96,6 +96,12 @@
   <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor2.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs</tags>
   </char>
+  <char id="10019" name="Halloween - Dracula" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/dracula.png" copyable="N">
+    <tags>poptropica,_free,_cat:Holidays</tags>
+  </char>
+  <char id="10020" name="Halloween - Mummy" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mummy.png" copyable="N">
+    <tags>poptropica,_free,_cat:Holidays</tags>
+  </char>
   <char id="10002" name="Halloween - Skeleton" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/skeleton.png" copyable="N">
     <tags>poptropica,_free,_cat:Holidays</tags>
   </char>
