@@ -4462,6 +4462,9 @@
   <char id="5027" name="Halloween - William in Skeleton Costume" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/william_halloween.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>
+  <char id="5028" name="Halloween - Allison in Witch Costume" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/allison_halloween.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays,_tag:male</tags>
+  </char>
   <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>
