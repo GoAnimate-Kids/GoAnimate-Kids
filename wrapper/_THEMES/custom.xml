@@ -4318,7 +4318,7 @@
   <char id="3012" name="Chef" cc_theme_id="family" thumbnail_url="thumbnails/chef.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
-  <char id="3045" name="Chef" cc_theme_id="family" thumbnail_url="thumbnails/chef2.png" copyable="Y">
+  <char id="7045" name="Chef" cc_theme_id="family" thumbnail_url="thumbnails/chef2.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="7054" name="Waiter" cc_theme_id="family" thumbnail_url="thumbnails/waiter.png" copyable="Y">
