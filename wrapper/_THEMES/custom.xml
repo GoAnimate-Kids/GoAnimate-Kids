@@ -4315,10 +4315,22 @@
   <char id="3017" name="Plumber" cc_theme_id="family" thumbnail_url="thumbnails/plumber_luigi.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
-  <char id="3012" name="Baker" cc_theme_id="family" thumbnail_url="thumbnails/chef.png" copyable="Y">
+  <char id="3012" name="Chef" cc_theme_id="family" thumbnail_url="thumbnails/chef.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="3045" name="Chef" cc_theme_id="family" thumbnail_url="thumbnails/chef2.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="7054" name="Waiter" cc_theme_id="family" thumbnail_url="thumbnails/waiter.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3007" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="7046" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer2.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="7055" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer3.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3009" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier.png" copyable="Y">
@@ -4328,6 +4340,12 @@
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3011" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier_buff.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="7048" name="Ninja" cc_theme_id="family" thumbnail_url="thumbnails/ninja.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs,_tag:male</tags>
+  </char>
+  <char id="7053" name="Pirate" cc_theme_id="family" thumbnail_url="thumbnails/pirate2.png" copyable="Y">
     <tags>family,_free,_cat:Jobs,_tag:male</tags>
   </char>
   <char id="3013" name="Giggles the Clown" cc_theme_id="family" thumbnail_url="thumbnails/giggles.png" copyable="Y">
@@ -4456,6 +4474,30 @@
   <char id="7040" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/guy_011.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
   </char>
+  <char id="7049" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/ugly_lady2.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:female</tags>
+  </char>
+  <char id="7050" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/secretary.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:female</tags>
+  </char>
+  <char id="7051" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/girl_007.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:female</tags>
+  </char>
+  <char id="7052" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/guy_012.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
+  <char id="7056" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/old_man2.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
+  <char id="7057" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/kid_001.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
+  <char id="7058" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/kid_002.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
+  <char id="7059" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/guy_013.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
   <char id="5023" name="St. Patrick's Day - Leprechaun" cc_theme_id="family" thumbnail_url="thumbnails/holidays/stpatricksday/leprechaun.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>
@@ -4493,6 +4535,9 @@
     <tags>family,_free,_cat:Superheroes,_tag:female</tags>
   </char>
   <char id="7014" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_003.png" copyable="Y">
+    <tags>family,_free,_cat:Superheroes,_tag:male</tags>
+  </char>
+  <char id="7047" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_007.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes,_tag:male</tags>
   </char>
   <char id="3015" name="Robber" cc_theme_id="family" thumbnail_url="thumbnails/robber.png" copyable="Y">
