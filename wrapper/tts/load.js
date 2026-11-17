@@ -24,17 +24,44 @@ const processVoice = (voiceName, text) => {
 	return new Promise((res, rej) => {
 		const voice = voices[voiceName];
 		switch (voice.source) {
-				case "polly": {
-					const q = new URLSearchParams({
-						voice: voice.arg,
-						text: text,
-					}).toString();
+			case "polly": { // working, stops working after some time
+				// make sure it's under the char limit
+				text = text.substring(0, 2999);
 
-					https
-						.get(`https://api.streamelements.com/kappa/v2/speech?${q}`, res)
-						.on("error", rej);
-					break;
-				}
+				const body = new URLSearchParams({
+					msg: text,
+					lang: voice.arg,
+					source: "ttsmp3"
+				}).toString();
+				var req = https.request(
+					{
+						hostname: "ttsmp3.com",
+						port: "443",
+						path: "/makemp3_new.php",
+						method: "POST",
+						headers: {
+							"Content-Length": body.length,
+							"Content-type": "application/x-www-form-urlencoded"
+						}
+					},
+					(r) => {
+						let buffers = [];
+						r.on("data", (d) => buffers.push(d));
+						r.on("end", () => {
+							const json = JSON.parse(Buffer.concat(buffers).toString());
+							if (json.Error != 0) rej(json.Text);
+
+							get(json.URL)
+								.then(res)
+								.catch(rej);
+						});
+						r.on("error", rej);
+					}
+				);
+				req.write(body);
+				req.end();
+				break;
+			}
 			case "vocalware": { // working
 				var [eid, lid, vid] = voice.arg;
 				var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
