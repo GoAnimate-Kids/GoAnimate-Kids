@@ -18,58 +18,58 @@ const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/201
 const voices = require("./info").voices;
 // stuff
 const asset = require("../asset/main");
-const {
-    xmlFail
-} = require("../request/extend");
+const { xmlFail } = require("../request/extend");
 const get = require("../request/get");
 const processVoice = (voiceName, text) => {
-    return new Promise((res, rej) => {
-        const voice = voices[voiceName];
-        switch (voice.source) {
-        case "polly": {
-                const q = new URLSearchParams({
-                    voice: voice.arg,
-                    text: text,
-                }).toString();
+	return new Promise((res, rej) => {
+		const voice = voices[voiceName];
+		switch (voice.source) {
+				case "polly": {
+					const q = new URLSearchParams({
+						voice: voice.arg,
+						text: text,
+					}).toString();
 
-                https
-                .get(`https://api.streamelements.com/kappa/v2/speech?${q}`, res)
-                .on("error", rej);
-                break;
-            }
-        case "vocalware": { // working
-                var[eid, lid, vid] = voice.arg;
-                var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
-                var q = new URLSearchParams({
-                    EID: voice.arg[0],
-                    LID: voice.arg[1],
-                    VID: voice.arg[2],
-                    TXT: text,
-                    EXT: "mp3",
-                    IS_UTF8: 1,
-                    ACC: 5883747,
-                    cache_flag: 3,
-                    CS: cs,
-                }).toString();
-                var req = https.get({
-                    host: "cache-a.oddcast.com",
-                    path: `/tts/gen.php?${q}`,
-                    headers: {
-                        Referer: "https://www.oddcast.com/",
-                        Origin: "https://www.oddcast.com/",
-                        "User-Agent": userAgent,
-                    },
-                },
-                        (r) => {
-                    var buffers = [];
-                    r.on("data", (d) => buffers.push(d));
-                    r.on("end", () => res(Buffer.concat(buffers)));
-                    r.on("error", rej);
-                });
-                break;
-            }
-        }
-    });
+					https
+						.get(`https://api.streamelements.com/kappa/v2/speech?${q}`, res)
+						.on("error", rej);
+					break;
+				}
+			case "vocalware": { // working
+				var [eid, lid, vid] = voice.arg;
+				var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
+				var q = new URLSearchParams({
+					EID: voice.arg[0],
+					LID: voice.arg[1],
+					VID: voice.arg[2],
+					TXT: text,
+					EXT: "mp3",
+					IS_UTF8: 1,
+					ACC: 5883747,
+					cache_flag: 3,
+					CS: cs,
+				}).toString();
+				var req = https.get(
+					{
+						host: "cache-a.oddcast.com",
+						path: `/tts/gen.php?${q}`,
+						headers: {
+							Referer: "https://www.oddcast.com/",
+							Origin: "https://www.oddcast.com/",
+							"User-Agent": userAgent,
+						},
+					},
+					(r) => {
+						var buffers = [];
+						r.on("data", (d) => buffers.push(d));
+						r.on("end", () => res(Buffer.concat(buffers)));
+						r.on("error", rej);
+					}
+				);
+				break;
+			}
+		}
+	});
 }
 
 /**
@@ -79,39 +79,34 @@ const processVoice = (voiceName, text) => {
  * @returns {boolean}
  */
 module.exports = async function (req, res, url) {
-    if (req.method != "POST" || url.pathname != "/goapi/convertTextToSoundAsset/")
-        return;
-    const {
-        voice,
-        text
-    } = req.body;
-    if (!voice || !text) {
-        res.statusCode = 400;
-        res.end();
-        return true;
-    }
+	if (req.method != "POST" || url.pathname != "/goapi/convertTextToSoundAsset/") return;
+	const { voice, text } = req.body;
+	if (!voice || !text) {
+		res.statusCode = 400;
+		res.end();
+		return true;
+	}
 
-    try {
-        const buffer = await processVoice(voice, text);
-        mp3Duration(buffer, (e, duration) => {
-            if (e || !duration)
-                throw new Error(e);
+	try {
+		const buffer = await processVoice(voice, text);
+		mp3Duration(buffer, (e, duration) => {
+			if (e || !duration) throw new Error(e);
 
-            const meta = {
-                type: "sound",
-                subtype: "tts",
-                title: `[${voices[voice].desc}] ${text}`,
-                duration: 1e3 * duration,
-                ext: "mp3",
-                themeId: "ugc"
-            }
-            const id = asset.save(buffer, meta);
-            res.end(`0<response><asset><id>${id}</id><enc_asset_id>${id}</enc_asset_id><type>sound</type><subtype>tts</subtype><title>${meta.title}</title><published>0</published><tags></tags><duration>${meta.duration}</duration><downloadtype>progressive</downloadtype><file>${id}</file></asset></response>`)
-        });
-    } catch (err) {
-        console.error("Error generating TTS: " + err);
-        res.statusCode = 500;
-        res.end("1" + xmlFail("Internal server error."));
-    };
-    return true;
+			const meta = {
+				type: "sound",
+				subtype: "tts",
+				title: `[${voices[voice].desc}] ${text}`,
+				duration: 1e3 * duration,
+				ext: "mp3",
+				themeId: "ugc"
+			}
+			const id = asset.save(buffer, meta);
+			res.end(`0<response><asset><id>${id}</id><enc_asset_id>${id}</enc_asset_id><type>sound</type><subtype>tts</subtype><title>${meta.title}</title><published>0</published><tags></tags><duration>${meta.duration}</duration><downloadtype>progressive</downloadtype><file>${id}</file></asset></response>`)
+		});
+	} catch (err) {
+		console.error("Error generating TTS: " + err);
+		res.statusCode = 500;
+		res.end("1" + xmlFail("Internal server error."));
+	};
+	return true;
 }
