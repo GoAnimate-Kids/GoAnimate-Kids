@@ -24,14 +24,13 @@ const processVoice = (voiceName, text) => {
     return new Promise((res, rej) => {
         const voice = voices[voiceName];
         switch (voice.source) {
-        case "polly": { // working, stops working after some time
-
+        case "polly": {
                 const body = new URLSearchParams({
                     msg: text,
                     lang: voice.arg,
                     source: "ttsmp3"
                 }).toString();
-                const req = https.request({
+                const req = https.get({
                     hostname: "ttsmp3.com",
                     path: "/makemp3_new.php",
                     method: "POST",
@@ -58,7 +57,7 @@ const processVoice = (voiceName, text) => {
                 req.end(body);
                 break;
             }
-        case "vocalware": { // working
+        case "vocalware": {
                 var[eid, lid, vid] = voice.arg;
                 var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
                 var q = new URLSearchParams({
