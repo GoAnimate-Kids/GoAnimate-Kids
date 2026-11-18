@@ -35,8 +35,6 @@ const processVoice = (voiceName, text) => {
                     hostname: "gospeech.replit.app",
                     path: `/service/polly_makemp3?${q}`,
                     headers: {
-                        Referer: "https://gospeech.replit.app",
-                        Origin: "https://gospeech.replit.app",
                         "User-Agent": userAgent,
                     },
                 },
@@ -50,19 +48,16 @@ const processVoice = (voiceName, text) => {
             }
         case "vocalware": { // working
                 var[eid, lid, vid] = voice.arg;
-                var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
                 var q = new URLSearchParams({
-                    EID: voice.arg[0],
-                    LID: voice.arg[1],
-                    VID: voice.arg[2],
-                    TXT: text,
+					eid,
+					lid,
+					vid,
+					txt: text,
                 }).toString();
                 var req = https.get({
-                    host: "cache-a.oddcast.com",
-                    path: `/tts/gen.php?${q}`,
+                    hostname: "gospeech.replit.app",
+                    path: `/service/oddcast2_makemp3?${q}`,
                     headers: {
-                        Referer: "https://www.oddcast.com/",
-                        Origin: "https://www.oddcast.com/",
                         "User-Agent": userAgent,
                     },
                 },
