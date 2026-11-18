@@ -37,7 +37,7 @@ const processVoice = (voiceName, text) => {
                     method: "POST",
                     headers: {
                         referer: "https://streamlabs.com",
-                    },
+                    }
                 }, c => {
                     let u = "";
                     c.on("data", g => u += g);
