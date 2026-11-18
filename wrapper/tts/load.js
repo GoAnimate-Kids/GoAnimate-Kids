@@ -25,37 +25,41 @@ const processVoice = (voiceName, text) => {
         const voice = voices[voiceName];
         switch (voice.source) {
         case "polly": {
-                const body = new URLSearchParams({
-                    msg: text,
-                    lang: voice.arg,
-                    source: "ttsmp3"
-                }).toString();
-                const req = https.get({
-                    hostname: "ttsmp3.com",
-                    path: "/makemp3_new.php",
-                    method: "POST",
-                    headers: {
-                        "Content-Type": "application/x-www-form-urlencoded",
-                        "Content-Length": Buffer.byteLength(body)
-                    }
-                }, (res) => {
-                    let chunks = [];
-                    res.on("data", (chunk) => chunks.push(chunk));
-                    res.on("end", () => {
-                        try {
-                            const json = JSON.parse(Buffer.concat(chunks).toString());
-                            if (json.Error === 1)
-                                return rej(json.Text);
-                            const audioUrl = json.URL.startsWith("https") ? json.URL : json.URL.replace("http", "https");
-                            https.get(audioUrl, resolve).on("error", rej);
-                        } catch (e) {
-                            rej("Invalid JSON from ttsmp3.com");
-                        }
-                    });
-                });
-                req.on("error", (e) => rej(`Network error: ${e.message}`));
-                req.end(body);
-                break;
+			    text = text.substring(0, 2999);
+
+				const body = new URLSearchParams({
+					msg: text,
+					lang: voice.arg,
+					source: "ttsmp3"
+				}).toString();
+				var req = https.request(
+					{
+						hostname: "ttsmp3.com",
+						port: "443",
+						path: "/makemp3_new.php",
+						method: "POST",
+						headers: {
+							"Content-Length": body.length,
+							"Content-type": "application/x-www-form-urlencoded"
+						}
+					},
+					(r) => {
+						let buffers = [];
+						r.on("data", (d) => buffers.push(d));
+						r.on("end", () => {
+							const json = JSON.parse(Buffer.concat(buffers).toString());
+							if (json.Error != 0) rej(json.Text);
+
+							get(json.URL)
+								.then(res)
+								.catch(rej);
+						});
+						r.on("error", rej);
+					}
+				);
+				req.write(body);
+				req.end();
+				break;
             }
         case "vocalware": {
                 var[eid, lid, vid] = voice.arg;
