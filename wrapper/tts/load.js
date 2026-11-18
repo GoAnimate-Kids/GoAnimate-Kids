@@ -26,17 +26,18 @@ const processVoice = (voiceName, text) => {
     return new Promise((res, rej) => {
         const voice = voices[voiceName];
         switch (voice.source) {
-        case "polly": { // working, stops working after some time
-                const body = new URLSearchParams({
-                    voice: t.arg,
-                    text: e,
+        case "polly": { // working
+                var q = new URLSearchParams({
+                        text: text,
+                        voice: voice.arg,
                 }).toString();
                 var req = https.get({
-                    hostname: "streamlabs.com",
-                    path: `/polly/speak?${q}`,
-                    method: "POST",
+                    hostname: "gospeech.replit.app",
+                    path: `/service/polly_makemp3?${q}`,
                     headers: {
-                        referer: "https://streamlabs.com",
+                        Referer: "https://gospeech.replit.app",
+                        Origin: "https://gospeech.replit.app",
+                        "User-Agent": userAgent,
                     },
                 },
                         (r) => {
@@ -55,18 +56,13 @@ const processVoice = (voiceName, text) => {
                     LID: voice.arg[1],
                     VID: voice.arg[2],
                     TXT: text,
-                    EXT: "mp3",
-                    IS_UTF8: 1,
-                    ACC: 5883747,
-                    cache_flag: 3,
-                    CS: cs,
                 }).toString();
                 var req = https.get({
-                    host: "cache-a.oddcast.com",
-                    path: `/tts/gen.php?${q}`,
+                    hostname: "gospeech.replit.app",
+                    path: `/service/oddcast2_makemp3?${q}`,
                     headers: {
-                        Referer: "https://www.oddcast.com/",
-                        Origin: "https://www.oddcast.com/",
+                        Referer: "https://gospeech.replit.app",
+                        Origin: "https://gospeech.replit.app",
                         "User-Agent": userAgent,
                     },
                 },
