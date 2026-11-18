@@ -50,6 +50,7 @@ const processVoice = (voiceName, text) => {
             }
         case "vocalware": { // working
                 var[eid, lid, vid] = voice.arg;
+                var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
                 var q = new URLSearchParams({
                     EID: voice.arg[0],
                     LID: voice.arg[1],
@@ -57,11 +58,11 @@ const processVoice = (voiceName, text) => {
                     TXT: text,
                 }).toString();
                 var req = https.get({
-                    hostname: "gospeech.replit.app",
-                    path: `/service/oddcast2_makemp3?${q}`,
+                    host: "cache-a.oddcast.com",
+                    path: `/tts/gen.php?${q}`,
                     headers: {
-                        Referer: "https://gospeech.replit.app",
-                        Origin: "https://gospeech.replit.app",
+                        Referer: "https://www.oddcast.com/",
+                        Origin: "https://www.oddcast.com/",
                         "User-Agent": userAgent,
                     },
                 },
