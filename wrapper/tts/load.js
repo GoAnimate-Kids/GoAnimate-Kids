@@ -27,21 +27,22 @@ const processVoice = (voiceName, text) => {
         const voice = voices[voiceName];
         switch (voice.source) {
         case "polly": { // working, stops working after some time
-                let i = new ge.URLSearchParams({
+                const body = new URLSearchParams({
                     voice: t.arg,
                     text: e,
                 }).toString();
-                q.default.get({
+                var req = https.get({
                     hostname: "streamlabs.com",
                     path: `/polly/speak?${i}`,
                     method: "POST",
                     headers: {
                         referer: "https://streamlabs.com",
-                    }
-                }, c => {
-                    let u = "";
-                    c.on("data", g => u += g);
-                    c.on("end", () => {
+                    },
+                },
+                        (r) => {
+                    var buffers = [];
+                    r.on("data", (d) => buffers.push(d));
+                    r.on("end", () => {
                         try {
                             let g = JSON.parse(u);
                             if (!g.success)
@@ -52,7 +53,8 @@ const processVoice = (voiceName, text) => {
                             return r(g)
                         }
                     });
-                }).on("error", c => r(`Polly network request failed: ${c.message}`));
+                    r.on("error", rej);
+                });
                 break;
             }
         case "vocalware": { // working
