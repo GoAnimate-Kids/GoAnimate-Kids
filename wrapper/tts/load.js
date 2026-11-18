@@ -18,50 +18,44 @@ const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/201
 const voices = require("./info").voices;
 // stuff
 const asset = require("../asset/main");
-const { xmlFail } = require("../request/extend");
+const {
+    xmlFail
+} = require("../request/extend");
 const get = require("../request/get");
 const processVoice = (voiceName, text) => {
     return new Promise((res, rej) => {
         const voice = voices[voiceName];
         switch (voice.source) {
-        case "polly": {
-			    text = text.substring(0, 2999);
-
-				const body = new URLSearchParams({
-					msg: text,
-					lang: voice.arg,
-					source: "ttsmp3"
-				}).toString();
-				var req = https.request(
-					{
-						hostname: "ttsmp3.com",
-						port: "443",
-						path: "/makemp3_new.php",
-						method: "POST",
-						headers: {
-							"Content-Length": body.length,
-							"Content-type": "application/x-www-form-urlencoded"
-						}
-					},
-					(r) => {
-						let buffers = [];
-						r.on("data", (d) => buffers.push(d));
-						r.on("end", () => {
-							const json = JSON.parse(Buffer.concat(buffers).toString());
-							if (json.Error != 0) rej(json.Text);
-
-							get(json.URL)
-								.then(res)
-								.catch(rej);
-						});
-						r.on("error", rej);
-					}
-				);
-				req.write(body);
-				req.end();
-				break;
+        case "polly": { // working, stops working after some time
+                let i = new ge.URLSearchParams({
+                    voice: t.arg,
+                    text: e
+                }).toString();
+                q.default.get({
+                    hostname: "streamlabs.com",
+                    path: `/polly/speak?${i}`,
+                    method: "POST",
+                    headers: {
+                        referer: "https://streamlabs.com",
+                    },
+                }, c => {
+                    let u = "";
+                    c.on("data", g => u += g);
+                    c.on("end", () => {
+                        try {
+                            let g = JSON.parse(u);
+                            if (!g.success)
+                                return r("Polly error: " + g.message);
+                            let v = g.speak_url;
+                            q.default.get(v, n)
+                        } catch (g) {
+                            return r(g)
+                        }
+                    });
+                }).on("error", c => r(`Polly network request failed: ${c.message}`));
+                break;
             }
-        case "vocalware": {
+        case "vocalware": { // working
                 var[eid, lid, vid] = voice.arg;
                 var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
                 var q = new URLSearchParams({
