@@ -50,7 +50,6 @@ const processVoice = (voiceName, text) => {
             }
         case "vocalware": { // working
                 var[eid, lid, vid] = voice.arg;
-                var cs = md5(`${eid}${lid}${vid}${text}1mp35883747uetivb9tb8108wfj`);
                 var q = new URLSearchParams({
                     EID: voice.arg[0],
                     LID: voice.arg[1],
