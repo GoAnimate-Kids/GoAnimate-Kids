@@ -33,7 +33,7 @@ const processVoice = (voiceName, text) => {
                 }).toString();
                 var req = https.get({
                     hostname: "streamlabs.com",
-                    path: `/polly/speak?${i}`,
+                    path: `/polly/speak?${q}`,
                     method: "POST",
                     headers: {
                         referer: "https://streamlabs.com",
@@ -42,17 +42,7 @@ const processVoice = (voiceName, text) => {
                         (r) => {
                     var buffers = [];
                     r.on("data", (d) => buffers.push(d));
-                    r.on("end", () => {
-                        try {
-                            let g = JSON.parse(u);
-                            if (!g.success)
-                                return r("Polly error: " + g.message);
-                            let v = g.speak_url;
-                            q.default.get(v, n)
-                        } catch (g) {
-                            return r(g)
-                        }
-                    });
+                    r.on("end", () => res(Buffer.concat(buffers)));
                     r.on("error", rej);
                 });
                 break;
