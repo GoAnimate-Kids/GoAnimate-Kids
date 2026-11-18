@@ -29,7 +29,7 @@ const processVoice = (voiceName, text) => {
         case "polly": { // working, stops working after some time
                 let i = new ge.URLSearchParams({
                     voice: t.arg,
-                    text: e
+                    text: e,
                 }).toString();
                 q.default.get({
                     hostname: "streamlabs.com",
