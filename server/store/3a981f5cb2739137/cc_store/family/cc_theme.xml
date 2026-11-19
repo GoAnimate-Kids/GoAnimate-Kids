@@ -6947,6 +6947,10 @@
 		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
+	<component type="facedecoration" id="158" path="158" name="158" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
+	</component>
 	<component type="beard" id="003b" path="003b" name="003b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
