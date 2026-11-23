@@ -15453,7 +15453,9 @@
 	<prop id="ruler.swf" name="Ruler" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="school_glue.swf" name="School glue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="backpack.swf" name="Backpack" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
-	<prop id="bench.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="bench.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="bandage.swf" name="Bandage" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
     <prop id="leg_cast.swf" name="Leg cast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
     <prop id="money.swf" name="Money" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
@@ -15467,8 +15469,11 @@
 		<state id="msp_cake01_ncc_cake01_cut.swf" name="sliced" enable="Y"/>
 		<state id="msp_cake01_ncc_cake01_full.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_cake01_ncc_cake01_piece.swf" name="piece" enable="Y"/>
+		<tag>cat:Food and Drinks</tag>
 	</prop>
-	<prop id="ncc_corn01.swf" name="Corn cobs" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11359" money="0" sharing="0"/>
+	<prop id="ncc_corn01.swf" name="Corn cobs" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11359" money="0" sharing="0">
+		<tag>cat:Food and Drinks</tag>
+    </prop>
 	<prop id="msp_leave01" name="Leaf" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_leave01_ncc_leave01_front.swf" enable="Y" is_premium="N" aid="11371" money="0" sharing="0">
 		<state id="msp_leave01_ncc_leave01_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_leave01_ncc_leave01_side.swf" name="side" enable="Y"/>
@@ -15501,7 +15506,9 @@
 		<state id="msp_woodchair_ncc_woodchair01.swf" name="with branch" enable="Y" default="Y"/>
 		<state id="msp_woodchair_ncc_woodchair02.swf" name="no branch" enable="Y"/>
 	</prop>
-	<prop id="ncc_woodtable01.swf" name="Wooden table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11392" money="0" sharing="0"/>
+	<prop id="ncc_woodtable01.swf" name="Wooden table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11392" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_teepee01" name="Teepee" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_teepee01_ncc_teepee01_front.swf" enable="Y" is_premium="N" aid="11393" money="0" sharing="0">
 		<state id="msp_teepee01_ncc_teepee01_back.swf" name="back" enable="Y"/>
 		<state id="msp_teepee01_ncc_teepee01_cover.swf" name="front layer" enable="Y"/>
@@ -15602,12 +15609,20 @@
 	<prop id="fly.swf" name="Fly" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="N" is_premium="N" aid="3268" money="0" sharing="0"/>
 	<prop id="speaker_red.swf" name="Red Speaker" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3269" money="0" sharing="0"/>
 	<prop id="speaker_black.swf" name="Black Speaker" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3270" money="0" sharing="0"/>
-	<prop id="chair1.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3271" money="0" sharing="0"/>
+	<prop id="chair1.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3271" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="door1.swf" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3272" money="0" sharing="0"/>
-	<prop id="highseat.swf" name="High Seat" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3273" money="0" sharing="0"/>
+	<prop id="highseat.swf" name="High Seat" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3273" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="dailyshowtable.swf" name="Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3274" money="0" sharing="0"/>
-	<prop id="table1.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3275" money="0" sharing="0"/>
-	<prop id="foldchair.swf" name="Folding chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3276" money="0" sharing="0"/>
+	<prop id="table1.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3275" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="foldchair.swf" name="Folding chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3276" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="lightray.swf" name="Light Ray" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3277" money="0" sharing="0"/>
 	<prop id="bobhead.swf" name="Bob Head" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="3278" money="0" sharing="0"/>
 	<prop id="devilcorn.swf" name="Devil Corn" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="3279" money="0" sharing="0"/>
@@ -15619,8 +15634,12 @@
 	<prop id="classroom_status.swf" name="Classroom Statue" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3285" money="0" sharing="0"/>
 	<prop id="cock.swf" name="Cock" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3286" money="0" sharing="0"/>
 	<prop id="egg.swf" name="Egg" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3287" money="0" sharing="0" handstyle="flat"/>
-	<prop id="interview_chair.swf" name="Interview Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3289" money="0" sharing="0"/>
-	<prop id="interview_desk.swf" name="Interview Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3290" money="0" sharing="0"/>
+	<prop id="interview_chair.swf" name="Interview Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3289" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="interview_desk.swf" name="Interview Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3290" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="lamp.swf" name="Lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3291" money="0" sharing="0"/>
 	<prop id="light.swf" name="Light" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3292" money="0" sharing="0"/>
 	<prop id="locker_boy.swf" name="Boy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3293" money="0" sharing="0"/>
@@ -15631,7 +15650,9 @@
 	<prop id="mosaic_02.swf" name="Mosaic" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3298" money="0" sharing="0"/>
 	<prop id="mouse.swf" name="Mouse" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3299" money="0" sharing="0"/>
 	<prop id="office_carpet.swf" name="Office Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3300" money="0" sharing="0"/>
-	<prop id="office_desk.swf" name="Office Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3301" money="0" sharing="0"/>
+	<prop id="office_desk.swf" name="Office Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3301" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="office_dog.swf" name="Office Dog" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3302" money="0" sharing="0"/>
 	<prop id="pumping_shit.swf" name="Pumping Poop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3303" money="0" sharing="0"/>
 	<prop id="table01.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3304" money="0" sharing="0"/>
@@ -15769,15 +15790,18 @@
 	<prop id="msp_sofa01" name="sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sofa01_sofa01_front.swf" enable="Y" is_premium="N" aid="10475" money="0" sharing="0">
 		<state id="msp_sofa01_sofa01_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_sofa01_sofa01_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_sofa02" name="sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sofa02_sofa02_front.swf" enable="Y" is_premium="N" aid="10478" money="0" sharing="0">
 		<state id="msp_sofa02_sofa02_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_sofa02_sofa02_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_chair01" name="chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_chair01_chair01_front.swf" enable="Y" is_premium="N" aid="10481" money="0" sharing="0">
 		<state id="msp_chair01_chair01_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_chair01_chair01_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="carpet.swf" name="Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10484" money="0" sharing="0"/>
 	<prop id="msp_pic01" name="Picture" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_pic01_pic_front.swf" enable="Y" is_premium="N" aid="10485" money="0" sharing="0">
 		<state id="msp_pic01_pic_front.swf" name="front" enable="Y" default="Y"/>
@@ -15797,17 +15821,25 @@
 	</prop>
 	<prop id="table_square.swf" name="Table (square)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10497" money="0" sharing="0"/>
 	<prop id="table_round.swf" name="Table (round)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10498" money="0" sharing="0"/>
-	<prop id="lamp_ceiling.swf" name="Lamp (ceiling)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10499" money="0" sharing="0"/>
-	<prop id="lamp_floor.swf" name="Lamp (floor)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10500" money="0" sharing="0"/>
-	<prop id="lamp_table.swf" name="Lamp (table)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10501" money="0" sharing="0"/>
+	<prop id="lamp_ceiling.swf" name="Lamp (ceiling)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10499" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="lamp_floor.swf" name="Lamp (floor)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10500" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="lamp_table.swf" name="Lamp (table)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10501" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_dining_table" name="Dining table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_dining_table_dining_table_front.swf" enable="Y" is_premium="N" aid="10502" money="0" sharing="0">
 		<state id="msp_dining_table_dining_table_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_dining_table_dining_table_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_dining_chair" name="Dining chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_dining_chair_dining_chair_front.swf" enable="Y" is_premium="N" aid="10505" money="0" sharing="0">
 		<state id="msp_dining_chair_dining_chair_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_dining_chair_dining_chair_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="flower_vase.swf" name="Flowers in vase" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10508" money="0" sharing="0"/>
 	<prop id="msp_plates_01" name="Plates and cutlery" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_plates_01_plate_front01.swf" enable="Y" is_premium="N" aid="10509" money="0" sharing="0">
 		<state id="msp_plates_01_plate_front01.swf" name="empty (front)" enable="Y" default="Y"/>
@@ -15832,15 +15864,23 @@
 	<prop id="ncc_cloud.swf" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10527" money="0" sharing="0"/>
 	<prop id="moon.swf" name="Moon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10528" money="0" sharing="0"/>
 	<prop id="backdrop.swf" name="City backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10529" money="0" sharing="0"/>
-	<prop id="bench01.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10530" money="0" sharing="0"/>
-	<prop id="bench02.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10531" money="0" sharing="0"/>
+	<prop id="bench01.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10530" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="bench02.swf" name="Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10531" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="bushes.swf" name="Bush" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10532" money="0" sharing="0"/>
 	<prop id="tree.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10533" money="0" sharing="0"/>
 	<prop id="fences.swf" name="Fence" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10534" money="0" sharing="0"/>
 	<prop id="fountain01.swf" name="Fountain" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10535" money="0" sharing="0"/>
 	<prop id="fountain02.swf" name="Fountain" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10536" money="0" sharing="0"/>
-	<prop id="cafe_table.swf" name="Coffee shop table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10537" money="0" sharing="0"/>
-	<prop id="cafe_chair.swf" name="Coffee shop stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10538" money="0" sharing="0"/>
+	<prop id="cafe_table.swf" name="Coffee shop table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10537" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="cafe_chair.swf" name="Coffee shop stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10538" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="glasses_juice.swf" name="Glass with juice" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10539" money="0" sharing="0">
 		<tag>cat:Food and Drinks</tag>
     </prop>
@@ -15864,11 +15904,13 @@
 		<state id="msp_office_desk_ncc_officedesk_side.swf" name="side" enable="Y"/>
 		<state id="msp_office_desk_ncc_officedesk_side_open01.swf" name="side - top drawer opening" enable="Y"/>
 		<state id="msp_office_desk_ncc_officedesk_side_open02.swf" name="side - bottom drawer opening" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_office_chair" name="Office chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_office_chair_office_chair_front.swf" enable="Y" is_premium="N" aid="10551" money="0" sharing="0">
 		<state id="msp_office_chair_office_chair_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_office_chair_office_chair_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="03magic_book.swf" name="Magic book" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10554" money="0" sharing="0" handstyle="flat"/>
 	<prop id="02baseballbat.swf" name="Baseball bat" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10555" money="0" sharing="0"/>
 	<prop id="02bat.swf" name="Bat" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10556" money="0" sharing="0" handstyle="stick"/>
@@ -15878,7 +15920,8 @@
 	<prop id="msp_confer_table" name="Conference Room Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_confer_table_confer_table_front.swf" enable="Y" is_premium="N" aid="10560" money="0" sharing="0">
 		<state id="msp_confer_table_confer_table_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_confer_table_confer_table_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="vending_drink.swf" name="Drinks vending machine" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10563" money="0" sharing="0"/>
 	<prop id="vending_coffee.swf" name="Coffee vending machine" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10564" money="0" sharing="0"/>
 	<prop id="ncc_water_dispenser.swf" name="Water dispenser" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10565" money="0" sharing="0"/>
@@ -15894,9 +15937,11 @@
 		<state id="msp_copier_ncc_copier_side_scanning.swf" name="front - scanning" enable="Y" default="Y"/>
 		<state id="msp_copier_ncc_copier_scanning.swf" name="side - scanning" enable="Y" default="Y"/>
 	</prop>
-	<prop id="reception_desk.swf" name="Reception Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10574" money="0" sharing="0"/>
+	<prop id="reception_desk.swf" name="Reception Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10574" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="plant01.swf" name="Plant" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10575" money="0" sharing="0"/>
-	<prop id="msp_corkboard" name="Conference Room Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_corkboard_cork_board_front.swf" enable="Y" is_premium="N" aid="10576" money="0" sharing="0">
+	<prop id="msp_corkboard" name="Corkboard" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_corkboard_cork_board_front.swf" enable="Y" is_premium="N" aid="10576" money="0" sharing="0">
 		<state id="msp_corkboard_cork_board_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_corkboard_cork_board_side.swf" name="side" enable="Y"/>
 	</prop>
@@ -15920,8 +15965,11 @@
 		<state id="msp_bookshelf_bookshelf_full.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_bookshelf_ncc_bookshelf_sideempty.swf" name="side - empty" enable="Y" default="Y"/>
 		<state id="msp_bookshelf_ncc_bookshelf_sidefull.swf" name="side - full" enable="Y" default="Y"/>
-	</prop>
-	<prop id="bookshelf_prop.swf" name="Bookshelf" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10593" money="0" sharing="0"/>
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="bookshelf_prop.swf" name="Bookshelf" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10593" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_prop01" name="Bookshelf" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_prop01_prop_a.swf" enable="Y" is_premium="N" aid="10594" money="0" sharing="0">
 		<state id="msp_prop01_prop_a.swf" name="Prop A" enable="Y" default="Y"/>
 		<state id="msp_prop01_prop_b.swf" name="Prop B" enable="Y"/>
@@ -15967,7 +16015,8 @@
 	<prop id="msp_counter01" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_counter01_counter01_front.swf" enable="Y" is_premium="N" aid="10622" money="0" sharing="0">
 		<state id="msp_counter01_counter01_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_counter01_counter01_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="counter02_front.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10625" money="0" sharing="0"/>
 	<prop id="msp_cash_register01" name="Cash register" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cash_register01_msp_cash_register_cash_register01_back.swf" enable="Y" is_premium="N" aid="10626" money="0" sharing="0">
 		<state id="msp_cash_register01_msp_cash_register_cash_register01_back.swf" name="front" enable="Y" default="Y"/>
@@ -15978,7 +16027,9 @@
 		<state id="msp_cash_register02_msp_cash_register_cash_register02_side.swf" name="side" enable="Y"/>
 	</prop>
 	<prop id="crowd_control.swf" name="Crowd control belt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10632" money="0" sharing="0"/>
-	<prop id="bar_stool.swf" name="High bar stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10633" money="0" sharing="0"/>
+	<prop id="bar_stool.swf" name="High bar stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10633" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="bar_bg01.swf" name="Bar shelves" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10634" money="0" sharing="0"/>
 	<prop id="bar_bg02.swf" name="Bar shelves" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10635" money="0" sharing="0"/>
 	<prop id="glasses_03.swf" name="Glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10636" money="0" sharing="0"/>
@@ -16012,8 +16063,12 @@
 	<prop id="wood_chair.swf" name="Wooden step" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10658" money="0" sharing="0"/>
 	<prop id="tube.swf" name="Bucket" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10659" money="0" sharing="0"/>
 	<prop id="ball01.swf" name="Ball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10660" money="0" sharing="0"/>
-	<prop id="long_chair.swf" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10661" money="0" sharing="0"/>
-	<prop id="table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10662" money="0" sharing="0"/>
+	<prop id="long_chair.swf" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10661" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10662" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="cocktail_glass.swf" name="Cocktail glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10663" money="0" sharing="0"/>
 	<prop id="palm_tree01.swf" name="Palm Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10664" money="0" sharing="0"/>
 	<prop id="palm_tree02.swf" name="Palm Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10665" money="0" sharing="0"/>
@@ -16028,7 +16083,8 @@
 	<prop id="msp_counter02" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_counter02_counter02_front.swf" enable="Y" is_premium="N" aid="10716" money="0" sharing="0">
 		<state id="msp_counter02_counter02_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_counter02_ncc_counter02_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_cushion01.swf" name="Cushion" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10719" money="0" sharing="0"/>
 	<prop id="ncc_cushion02.swf" name="Cushion" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10720" money="0" sharing="0"/>
 	<prop id="msp_book01" name="Book" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_book01_ncc_book09.swf" enable="Y" is_premium="N" aid="10721" money="0" sharing="0">
@@ -16067,16 +16123,20 @@
 		<state id="msp_trash_bin_ncc_trash_bin_full.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_trash_bin_ncc_trash_bin_empty.swf" name="empty" enable="Y"/>
 	</prop>
-	<prop id="ncc_table02.swf" name="Table with cloth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10751" money="0" sharing="0"/>
+	<prop id="ncc_table02.swf" name="Table with cloth" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10751" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_pic02_front.swf" name="Picture frame" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10752" money="0" sharing="0"/>
 	<prop id="msp_lamp01" name="Lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_lamp01_ncc_lamp01_on.swf" enable="Y" is_premium="N" aid="10753" money="0" sharing="0">
 		<state id="msp_lamp01_ncc_lamp01_on.swf" name="on" enable="Y" default="Y"/>
 		<state id="msp_lamp01_ncc_lamp01_off.swf" name="off" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_sofa03" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sofa03_ncc_sofa03_front.swf" enable="Y" is_premium="Y" aid="10756" money="0" sharing="0">
 		<state id="msp_sofa03_ncc_sofa03_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_sofa03_ncc_sofa03_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_window01" name="Window" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_window01_ncc_window01_day.swf" enable="Y" is_premium="N" aid="10759" money="0" sharing="0">
 		<state id="msp_window01_ncc_window01_day.swf" name="front - day time" enable="Y" default="Y"/>
 		<state id="msp_window01_ncc_window01_night01.swf" name="front - night time" enable="Y"/>
@@ -16099,8 +16159,12 @@
 	<prop id="ncc_logo01.swf" name="Logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10774" money="0" sharing="0"/>
 	<prop id="ncc_tv_backdrop.swf" name="Backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10808" money="0" sharing="0"/>
 	<prop id="ncc_tv_screen.swf" name="Screen" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10809" money="0" sharing="0"/>
-	<prop id="ncc_tv_table01.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10810" money="0" sharing="0"/>
-	<prop id="ncc_tv_table02.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10811" money="0" sharing="0"/>
+	<prop id="ncc_tv_table01.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10810" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_tv_table02.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10811" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_tv_table03.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10812" money="0" sharing="0"/>
 	<prop id="msp_ncc_speaker" name="Speaker" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_speaker_ncc_speaker_still.swf" enable="Y" is_premium="N" aid="10814" money="0" sharing="0">
 		<state id="msp_ncc_speaker_ncc_speaker_still.swf" name="off" enable="Y" default="Y"/>
@@ -16109,10 +16173,17 @@
 	<prop id="msp_ncc_sofa04" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_sofa04_ncc_sofa04_front.swf" enable="Y" is_premium="Y" aid="10817" money="0" sharing="0">
 		<state id="msp_ncc_sofa04_ncc_sofa04_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_ncc_sofa04_ncc_sofa04_side.swf" name="side" enable="Y"/>
-	</prop>
-	<prop id="ncc_sofa05_front.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10820" money="0" sharing="0"/>
-	<prop id="ncc_sofa06_front.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10821" money="0" sharing="0"/>
-	<prop id="ncc_long_chair02.swf" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10822" money="0" sharing="0"/>
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_sofa05_front.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10820" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_sofa06_front.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10821" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_long_chair02.swf" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10822" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_ncc_rattan" name="Rattan" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_rattan_ncc_rattan01.swf" enable="Y" is_premium="N" aid="10823" money="0" sharing="0">
 		<state id="msp_ncc_rattan_ncc_rattan01.swf" name="normal" enable="Y" default="Y"/>
 		<state id="msp_ncc_rattan_ncc_rattan01_cusion.swf" name="with cushion" enable="Y"/>
@@ -16175,7 +16246,8 @@
 		<state id="msp_bed01_ncc_bed01_side.swf" name="side" enable="Y"/>
 		<state id="msp_bed01_ncc_blanket01_front_empty.swf" name="front - empty" enable="N"/>
 		<state id="msp_bed01_ncc_blanket01_side_empty.swf" name="side - empty" enable="N"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_blanket01" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_blanket01_ncc_blanket01_front.swf" enable="Y" is_premium="N" aid="10875" money="0" sharing="0">
 		<state id="msp_blanket01_ncc_blanket01_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_blanket01_ncc_blanket01_side.swf" name="side" enable="Y"/>
@@ -16295,22 +16367,29 @@
 		<state id="msp_iron_fence02_ncc_iron_fence02_side.swf" name="side" enable="Y" default="Y"/>
 		<state id="msp_iron_fence02_ncc_iron_fence02_front.swf" name="front" enable="Y"/>
 	</prop>
-	<prop id="ncc_bed02_side.swf" name="Hard bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10986" money="0" sharing="0"/>
+	<prop id="ncc_bed02_side.swf" name="Hard bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10986" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_stroke01.swf" name="graffiti" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10987" money="0" sharing="0"/>
 	<prop id="msp_capboard01" name="Dresser" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_capboard01_ncc_capboard01_side.swf" enable="Y" is_premium="N" aid="10988" money="0" sharing="0">
 		<state id="msp_capboard01_ncc_capboard01_side.swf" name="side" enable="Y" default="Y"/>
 		<state id="msp_capboard01_ncc_capboard01_front.swf" name="front" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_capboard02" name="Bedside drawers" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_capboard02_ncc_capboard02_side.swf" enable="Y" is_premium="N" aid="10991" money="0" sharing="0">
 		<state id="msp_capboard02_ncc_capboard02_side.swf" name="side" enable="Y" default="Y"/>
 		<state id="msp_capboard02_ncc_capboard02_front.swf" name="front" enable="Y"/>
-	</prop>
-	<prop id="ncc_lamp03.swf" name="Lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10994" money="0" sharing="0"/>
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_lamp03.swf" name="Lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10994" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_paint03.swf" name="Painting" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10995" money="0" sharing="0"/>
 	<prop id="msp_double_bed" name="Double bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_double_bed_ncc_double_bed_front.swf" enable="Y" is_premium="N" aid="10996" money="0" sharing="0">
 		<state id="msp_double_bed_ncc_double_bed_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_double_bed_ncc_double_bed_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_blanklet01" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_blanklet01_ncc_blanklet_side_single.swf" enable="Y" is_premium="N" aid="10999" money="0" sharing="0">
 		<state id="msp_blanklet01_ncc_blanklet_side_single.swf" name="side - one person" enable="Y" default="Y"/>
 		<state id="msp_blanklet01_ncc_blanklet_side_double.swf" name="side - two people" enable="Y"/>
@@ -16323,13 +16402,16 @@
 		<state id="msp_pillow02_ncc_pillow02_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_pillow02_ncc_pillow02_side.swf" name="side" enable="Y"/>
 	</prop>
-	<prop id="ncc_cashier01.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11009" money="0" sharing="0"/>
+	<prop id="ncc_cashier01.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11009" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_cashier02" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cashier02_ncc_cashier02_full.swf" enable="Y" is_premium="N" aid="11010" money="0" sharing="0">
 		<state id="msp_cashier02_ncc_cashier02_full.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_cashier02_ncc_cashier02_empty.swf" name="empty" enable="Y"/>
 		<state id="msp_cashier02_ncc_cashier02_side_empty.swf" name="side - empty" enable="Y"/>
 		<state id="msp_cashier02_ncc_cashier02_side_full.swf" name="side - full" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_leftlet_stand01.swf" name="Leaflet stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11013" money="0" sharing="0"/>
 	<prop id="ncc_leftlet_stand02.swf" name="Leaflet stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11014" money="0" sharing="0"/>
 	<prop id="ncc_namecard_stand02.swf" name="Namecard holder" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11015" money="0" sharing="0"/>
@@ -16533,9 +16615,14 @@
 	<prop id="msp_crmchair" name="Student chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_crmchair_ncc_crmchair_side.swf" enable="Y" is_premium="Y" aid="11360" money="0" sharing="0">
 		<state id="msp_crmchair_ncc_crmchair_back.swf" name="back" enable="Y"/>
 		<state id="msp_crmchair_ncc_crmchair_side.swf" name="side" enable="Y" default="Y"/>
-	</prop>
-	<prop id="ncc_crmtable01.swf" name="Teacher desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11363" money="0" sharing="0"/>
-	<prop id="ncc_crmtable02.swf" name="Student desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11364" money="0" sharing="0"/>
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_crmtable01.swf" name="Teacher desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11363" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_crmtable02.swf" name="Student desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11364" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_handshape" name="Hand" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_handshape_ncc_hand01.swf" enable="Y" is_premium="Y" aid="11365" money="0" sharing="0">
 		<state id="msp_handshape_ncc_hand01.swf" name="victory" enable="Y" default="Y"/>
 		<state id="msp_handshape_ncc_hand02.swf" name="open palm" enable="Y"/>
@@ -16698,12 +16785,14 @@
 	<prop id="msp_churchchair" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_churchchair_nccxmas_churchchair_side.swf" enable="Y" is_premium="Y" aid="11547" money="0" sharing="0">
 		<state id="msp_churchchair_nccxmas_churchchair_back.swf" name="back" enable="Y"/>
 		<state id="msp_churchchair_nccxmas_churchchair_side.swf" name="side" enable="Y" default="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="nccxmas_churchstage.swf" name="Stage" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11550" money="0" sharing="0"/>
 	<prop id="msp_churchstand" name="Stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_churchstand_nccxmas_churchstand01.swf" enable="Y" is_premium="N" aid="11551" money="0" sharing="0">
 		<state id="msp_churchstand_nccxmas_churchstand01.swf" name="mic" enable="Y" default="Y"/>
 		<state id="msp_churchstand_nccxmas_churchstand02.swf" name="no mic" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_churchwindow1" name="Church window" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_churchwindow1_nccxmas_churchwindow01_front.swf" enable="Y" is_premium="Y" aid="11554" money="0" sharing="0">
 		<state id="msp_churchwindow1_nccxmas_churchwindow01_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_churchwindow1_nccxmas_churchwindow01_side.swf" name="side" enable="Y"/>
@@ -16744,8 +16833,12 @@
 	<prop id="ncc_bus_stand.swf" name="Bus stop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11591" money="0" sharing="0"/>
 	<prop id="ncc_camp_globe.swf" name="Globe" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11592" money="0" sharing="0"/>
 	<prop id="ncc_camp_paper.swf" name="Paper" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11593" money="0" sharing="0"/>
-	<prop id="ncc_camp_stand.swf" name="Weapon stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11594" money="0" sharing="0"/>
-	<prop id="ncc_camp_table.swf" name="Folding table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11595" money="0" sharing="0"/>
+	<prop id="ncc_camp_stand.swf" name="Weapon stand" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11594" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_camp_table.swf" name="Folding table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11595" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_camp_telescope.swf" name="Binoculars" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11596" money="0" sharing="0"/>
 	<prop id="ncc_camp_tower.swf" name="Watchtower" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11597" money="0" sharing="0"/>
 	<prop id="ncc_camp01.swf" name="Tent inside" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11598" money="0" sharing="0"/>
@@ -16755,7 +16848,9 @@
 		<state id="msp_camp04_ncc_camp04_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_camp04_ncc_camp04_side.swf" name="side" enable="Y"/>
 	</prop>
-	<prop id="ncc_chair_stand.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11604" money="0" sharing="0"/>
+	<prop id="ncc_chair_stand.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11604" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_chrmbag" name="Sports bag" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_chrmbag_ncc_change_bagfront.swf" enable="Y" is_premium="Y" aid="11605" money="0" sharing="0">
 		<state id="msp_chrmbag_ncc_change_bagfront.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_chrmbag_ncc_change_bagside.swf" name="side" enable="Y"/>
@@ -16771,7 +16866,8 @@
 	<prop id="msp_chrm_stand" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_chrm_stand_ncc_change_stand01.swf" enable="Y" is_premium="Y" aid="11613" money="0" sharing="0">
 		<state id="msp_chrm_stand_ncc_change_stand01.swf" name="with hangers" enable="Y" default="Y"/>
 		<state id="msp_chrm_stand_ncc_change_stand02.swf" name="simple bench" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_clound02" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_clound02_ncc_cloud02.swf" enable="Y" is_premium="N" aid="11616" money="0" sharing="0">
 		<state id="msp_clound02_ncc_cloud02.swf" name="style 1" enable="Y" default="Y"/>
 		<state id="msp_clound02_ncc_cloud03.swf" name="style 2" enable="Y"/>
@@ -16855,7 +16951,9 @@
 		<state id="msp_apboard_ncc_apboard03.swf" name="delayed" enable="Y"/>
 	</prop>
 	<prop id="ncc_apboard04.swf" name="Wall" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11682" money="0" sharing="0"/>
-	<prop id="ncc_apcounter.swf" name="Airport counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11683" money="0" sharing="0"/>
+	<prop id="ncc_apcounter.swf" name="Airport counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11683" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_apfence" name="Crowd control fences" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_apfence_ncc_apfence_front.swf" enable="Y" is_premium="N" aid="11684" money="0" sharing="0">
 		<state id="msp_apfence_ncc_apfence_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_apfence_ncc_apfence_side.swf" name="side" enable="Y"/>
@@ -16899,22 +16997,30 @@
 	<prop id="msp_cafesofa" name="One-seater sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cafesofa_ncc_cafesofa_front.swf" enable="Y" is_premium="N" aid="11716" money="0" sharing="0">
 		<state id="msp_cafesofa_ncc_cafesofa_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_cafesofa_ncc_cafesofa_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_cafestand01.swf" name="Coffee shop equipment" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11719" money="0" sharing="0"/>
-	<prop id="ncc_cafestand02.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11720" money="0" sharing="0"/>
-	<prop id="ncc_cafestand03.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11721" money="0" sharing="0"/>
+	<prop id="ncc_cafestand02.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11720" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
+	<prop id="ncc_cafestand03.swf" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11721" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_cafetable01" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cafetable01_ncc_cafetable01.swf" enable="Y" is_premium="N" aid="11722" money="0" sharing="0">
 		<state id="msp_cafetable01_ncc_cafetable01.swf" name="with menu" enable="Y" default="Y"/>
 		<state id="msp_cafetable01_ncc_cafetable02.swf" name="empty" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_cafetable02" name="Coffee table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cafetable02_ncc_cafetable03.swf" enable="Y" is_premium="N" aid="11725" money="0" sharing="0">
 		<state id="msp_cafetable02_ncc_cafetable03.swf" name="with menu" enable="Y" default="Y"/>
 		<state id="msp_cafetable02_ncc_cafetable04.swf" name="empty" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_bed" name="Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_bed_ncc_gbbed_front.swf" enable="Y" is_premium="N" aid="11728" money="0" sharing="0">
 		<state id="msp_bed_ncc_gbbed_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_bed_ncc_gbbed_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_gbblanket01" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_gbblanket01_ncc_gbblanket01empty_front.swf" enable="Y" is_premium="Y" aid="11731" money="0" sharing="0">
 		<state id="msp_gbblanket01_ncc_gbblanket01empty_front.swf" name="front - empty" enable="Y" default="Y"/>
 		<state id="msp_gbblanket01_ncc_gbblanket01empty_side.swf" name="side - empty" enable="Y"/>
@@ -16926,13 +17032,15 @@
 		<state id="msp_gbchair_ncc_gbchair_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_gbchair_ncc_gbchair_side.swf" name="side" enable="Y"/>
 		<state id="msp_gbchair_ncc_gbchair_back.swf" name="back" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_desk" name="Make up table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_desk_ncc_gbdesk01.swf" enable="Y" is_premium="N" aid="11740" money="0" sharing="0">
 		<state id="msp_desk_ncc_gbdesk01.swf" name="stuff on" enable="Y" default="Y"/>
 		<state id="msp_desk_ncc_gbdesk02.swf" name="tidied" enable="Y"/>
 		<state id="msp_desk_ncc_gbdesk01_side.swf" name="side - stuff on" enable="Y"/>
 		<state id="msp_desk_ncc_gbdesk02_side.swf" name="side - tidied" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_gbseat.swf" name="Stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11743" money="0" sharing="0"/>
 	<prop id="msp_gbstand" name="Shelf" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_gbstand_ncc_gbstand01.swf" enable="Y" is_premium="Y" aid="11744" money="0" sharing="0">
 		<state id="msp_gbstand_ncc_gbstand01.swf" name="books" enable="Y" default="Y"/>
@@ -16957,13 +17065,16 @@
 		<state id="ncc_todoor_ncc_todoor_front_open.swf" name="front - open" enable="Y"/>
 	</prop>
 	<prop id="ncc_tomirror.swf" name="Mirror" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11756" money="0" sharing="0"/>
-	<prop id="ncc_tosink.swf" name="Sink" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11757" money="0" sharing="0"/>
+	<prop id="ncc_tosink.swf" name="Sink" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11757" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_totoilet" name="Toilet" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_totoilet_ncc_totoilet01.swf" enable="Y" is_premium="Y" aid="11758" money="0" sharing="0">
 		<state id="msp_totoilet_ncc_totoilet01.swf" name="front - closed" enable="Y" default="Y"/>
 		<state id="msp_totoilet_ncc_totoilet02.swf" name="front - opened" enable="Y"/>
 		<state id="msp_totoilet_ncc_totoilet01_side.swf" name="side - closed" enable="Y"/>
 		<state id="msp_totoilet_ncc_totoilet02_side.swf" name="side - opened" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_totower" name="Towel" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_totower_ncc_totower_front.swf" enable="Y" is_premium="N" aid="11761" money="0" sharing="0">
 		<state id="msp_totower_ncc_totower_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_totower_ncc_totower_side.swf" name="side" enable="Y"/>
@@ -16989,7 +17100,8 @@
 	<prop id="msp_bossdesk01" name="Boss desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_bossdesk01_ncc_boss_desk_front.swf" enable="Y" is_premium="Y" aid="11792" money="0" sharing="0">
 		<state id="msp_bossdesk01_ncc_boss_desk_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_bossdesk01_ncc_boss_desk_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_btn01" name="Red button" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_btn01_ncc_btn_off.swf" enable="Y" is_premium="N" aid="11795" money="0" sharing="0">
 		<state id="msp_btn01_ncc_btn_off.swf" name="default" enable="Y" default="Y"/>
 		<state id="msp_btn01_ncc_btn_on.swf" name="pressed" enable="Y"/>
@@ -17052,18 +17164,21 @@
 	<prop id="msp_bosscha" name="Boss chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_bosscha_ncc_boss_chair_front.swf" enable="Y" is_premium="N" aid="11843" money="0" sharing="0">
 		<state id="msp_bosscha_ncc_boss_chair_front.swf" name="side" enable="Y" default="Y"/>
 		<state id="msp_bosscha_boss_chair.swf" name="front" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_plane01.swf" name="Paper plane" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11846" money="0" sharing="0"/>
 	<prop id="msp_kitchen_area" name="Kitchen top" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_kitchen_area_kitchen_area01.swf" enable="Y" is_premium="N" aid="11847" money="0" sharing="0">
 		<state id="msp_kitchen_area_kitchen_area01.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_kitchen_area_ncc_kitchen_area01_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_cupboard02" name="Cupboard" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cupboard02_ncc_cupboard02_front.swf" enable="Y" is_premium="Y" aid="11850" money="0" sharing="0">
 		<state id="msp_cupboard02_ncc_cupboard02_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_cupboard02_ncc_cupboard02_frontopen.swf" name="front - opened" enable="Y"/>
 		<state id="msp_cupboard02_ncc_cupboard02_side.swf" name="side" enable="Y"/>
 		<state id="msp_cupboard02_ncc_cupboard02_sideopen.swf" name="side - opened" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_03apple.swf" name="Apple" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11858" money="0" sharing="0" handstyle="flat">
 		<tag>cat:Food and Drinks</tag>
     </prop>
@@ -17102,7 +17217,8 @@
 		<state id="msp_cabinet01_ncc_cabinet_frontgroup.swf" name="group - front" enable="Y"/>
 		<state id="msp_cabinet01_ncc_cabinet_side.swf" name="single - side" enable="Y"/>
 		<state id="msp_cabinet01_ncc_cabinet_sidegroup.swf" name="group - side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_microphone02.swf" name="Microphone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12345" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ncc_02ninja_sword.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="15002" money="0" sharing="0" handstyle="stick"/>
 	<prop id="febex_envelope02.swf" name="Febex Envelope" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="22031" money="0" sharing="0" handstyle="flat"/>
@@ -17143,7 +17259,8 @@
 	<prop id="msp_revotable" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_revotable_ncc_revotable_front.swf" enable="Y" is_premium="N" aid="11928" money="0" sharing="0">
 		<state id="msp_revotable_ncc_revotable_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_revotable_ncc_revotable_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_rubbishbin_side.swf" name="Rubbish bin" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11931" money="0" sharing="0"/>
 	<prop id="msp_sign" name="Toilet sign" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sign_ncc_sign01.swf" enable="Y" is_premium="Y" aid="11932" money="0" sharing="0">
 		<state id="msp_sign_ncc_sign01.swf" name="gents" enable="Y" default="Y"/>
@@ -17164,7 +17281,8 @@
 	<prop id="msp_tv_table03" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_tv_table03_ncc_tv_table03.swf" enable="Y" is_premium="N" aid="11945" money="0" sharing="0">
 		<state id="msp_tv_table03_ncc_tv_table03_opp.swf" name="back" enable="Y"/>
 		<state id="msp_tv_table03_ncc_tv_table03.swf" name="front" enable="Y" default="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_podium" name="Podium" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_podium_ncc_podium.swf" enable="Y" is_premium="N" aid="11948" money="0" sharing="0">
 		<state id="msp_podium_ncc_podium_side.swf" name="side" enable="Y"/>
 		<state id="msp_podium_ncc_podium.swf" name="front" enable="Y" default="Y"/>
@@ -17236,11 +17354,13 @@
 	<prop id="msp_lamp02" name="Wall lamp" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_lamp02_ncc_lamp02_off.swf" enable="Y" is_premium="N" aid="12087" money="0" sharing="0">
 		<state id="msp_lamp02_ncc_lamp02_off.swf" name="off" enable="Y" default="Y"/>
 		<state id="msp_lamp02_ncc_lamp02_on.swf" name="on" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_longchair02" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_longchair02_ncc_longchair02_front.swf" enable="Y" is_premium="N" aid="12090" money="0" sharing="0">
 		<state id="msp_longchair02_ncc_longchair02_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_longchair02_ncc_longchair02_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="ncc_road.swf" name="Path" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12093" money="0" sharing="0"/>
 	<prop id="msp_sunbella02" name="Beach umbrella" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sunbella02_ncc_sunbella_close.swf" enable="Y" is_premium="N" aid="12094" money="0" sharing="0">
 		<state id="msp_sunbella02_ncc_sunbella_close.swf" name="closed" enable="Y" default="Y"/>
@@ -17325,7 +17445,8 @@
 	<prop id="msp_tosink" name="Sink" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_tosink_ncc_tosink.swf" enable="Y" is_premium="N" aid="12152" money="0" sharing="0">
 		<state id="msp_tosink_ncc_tosink.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_tosink_ncc_tosink_side.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_doubledoor" name="Double door" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_doubledoor_double_door.swf" enable="Y" is_premium="N" aid="12155" money="0" sharing="0">
 		<state id="msp_doubledoor_double_door.swf" name="front - open" enable="Y" default="Y"/>
 		<state id="msp_doubledoor_ncc_doubledoor_side_closed.swf" name="side - closed" enable="Y"/>
@@ -17427,7 +17548,9 @@
 	<prop id="nccha_grave_prop01.swf" name="Hills backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11171" money="0" sharing="0"/>
 	<prop id="nccha_grave_prop02.swf" name="Hills backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11172" money="0" sharing="0"/>
 	<prop id="nccha_grave_castle.swf" name="Castle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11173" money="0" sharing="0"/>
-	<prop id="nccha_spooky_table.swf" name="Wooden table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11174" money="0" sharing="0"/>
+	<prop id="nccha_spooky_table.swf" name="Wooden table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11174" money="0" sharing="0">
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="nccha_spooky_testubeset.swf" name="Set of test tubes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11175" money="0" sharing="0"/>
 	<prop id="nccha_spooky_book.swf" name="Spooky book" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11176" money="0" sharing="0"/>
 	<prop id="msp_nccha_spooky_mach" name="Torture table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_spooky_mach_nccha_spooky_mach01.swf" enable="N" is_premium="Y" aid="11177" money="0" sharing="0">
@@ -17577,7 +17700,8 @@
 	<prop id="msp_resttable" name="Counter" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_resttable_ncc_rest_tablefront.swf" enable="Y" is_premium="N" aid="12212" money="0" sharing="0">
 		<state id="msp_resttable_ncc_rest_tablefront.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_resttable_ncc_rest_tableside.swf" name="side" enable="Y"/>
-	</prop>
+		<tag>cat:Furniture</tag>
+    </prop>
 	<prop id="msp_restgrass" name="Plants" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_restgrass_ncc_restgrass_front.swf" enable="Y" is_premium="N" aid="12215" money="0" sharing="0">
 		<state id="msp_restgrass_ncc_restgrass_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_restgrass_ncc_restgrass_side.swf" name="side" enable="Y"/>
